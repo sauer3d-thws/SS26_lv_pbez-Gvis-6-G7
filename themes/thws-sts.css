@@ -809,3 +809,16 @@ section.titlepage footer,
 section.fullscreen footer {
   display: none;
 }
+
+/* -------------------- CLASS: text-80 -------------------------------*/
+
+section.text-80 h1,
+section.text-80 h2,
+section.text-80 p,
+section.text-80 h3,
+section.text-80 ul,
+section.text-80 ol,
+section.text-80 table,
+section.text-80 pre {
+  width: 80%;
+}
