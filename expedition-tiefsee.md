@@ -35,8 +35,58 @@ usw...
 
 ---
 <!-- _class: structural -->
-# Projektübersicht & Rahmendaten
+# Agenda / Inhalt
 
+- [Expedition Tiefsee](#expedition-tiefsee)
+  - [Projektbezogene Geovisualisierung VI (G7) SPO 2022](#projektbezogene-geovisualisierung-vi-g7-spo-2022)
+- [Auf der Jagd nach den schwarzen Rauchern.](#auf-der-jagd-nach-den-schwarzen-rauchern)
+- [Projektübersicht & Rahmendaten](#projektübersicht--rahmendaten)
+  - [Vision & Zielsetzung](#vision--zielsetzung)
+  - [Die Aufgabenstellung](#die-aufgabenstellung)
+  - [Projektpartner](#projektpartner)
+  - [Zielplattform: Die CAVE im MAVEL-Lab Schweinfurt](#zielplattform-die-cave-im-mavel-lab-schweinfurt)
+  - [Zielgruppen & Interdisziplinäre Zusammensetzung](#zielgruppen--interdisziplinäre-zusammensetzung)
+
+---
+<!-- _class: structural -->
+
+- [Die Story & das didaktische Konzept](#die-story--das-didaktische-konzept)
+  - [Narrative Dramaturgie](#narrative-dramaturgie)
+  - [Das Projektgebiet](#das-projektgebiet)
+  - [Die Schlüsselstationen](#die-schlüsselstationen)
+  - [Gamification & Live-Feed-Gedanke](#gamification--live-feed-gedanke)
+- [Exkursion nach Bremerhaven](#exkursion-nach-bremerhaven)
+  - [Ziele der Exkursion](#ziele-der-exkursion)
+  - [Daten und Fakten](#daten-und-fakten)
+  - [Ablauf & Programm](#ablauf--programm)
+  - [Arbeitsaufträge für die Exkursionsphase](#arbeitsaufträge-für-die-exkursionsphase)
+
+---
+<!-- _class: structural -->
+
+- [Organisation & Ablauf](#organisation--ablauf)
+  - [Terminplanung (Semesterübersicht)](#terminplanung-semesterübersicht)
+  - [Prüfungs- und Bewertungskriterien](#prüfungs--und-bewertungskriterien)
+  - [Betreuungskonzept](#betreuungskonzept)
+- [Interdisziplinäre Teamstruktur & Aufgabenverteilung](#interdisziplinäre-teamstruktur--aufgabenverteilung)
+  - [Team-Übersicht](#team-übersicht)
+- [Technische Infrastruktur, Tools & Vorhandene Assets](#technische-infrastruktur-tools--vorhandene-assets)
+  - [Software-Stack & Hardware](#software-stack--hardware)
+  - [Dokumentation & Kollaboration](#dokumentation--kollaboration)
+  - [Bestands-Assets aus 2025/26](#bestands-assets-aus-202526)
+
+---
+<!-- _class: structural -->
+
+- [Inspirationen](#inspirationen)
+  - [Bücher](#bücher)
+  - [Filme](#filme)
+  - [Material AWI](#material-awi)
+  - [Artikel](#artikel)
+
+---
+<!-- _class: structural -->
+# Projektübersicht & Rahmendaten
 > Was bewegt uns, unsere Erde zu schützen, wenn das noch nicht einmal der eigene Selbsterhaltungstrieb vermag?
 
 ---
