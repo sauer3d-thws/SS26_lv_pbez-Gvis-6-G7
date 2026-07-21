@@ -12,12 +12,16 @@ math: mathjax
 ## Projektbezogene Geovisualisierung VI (G7) SPO 2022
 
 ###### Prüfungsnummer 6322340 Betreuer Stefan Sauer
+![bg](img/smoker.jpg)
+
 
 ---
 
 <!-- _class: structural -->
 
 # Auf der Jagd nach den schwarzen Rauchern.
+
+
 
 Hier kommt die Story Film / Audio sonst was rein
 
@@ -77,6 +81,7 @@ Hier kommt die Story Film / Audio sonst was rein
 <!-- _class: structural -->
 # Projektübersicht & Rahmendaten
 > Was bewegt uns, unsere Erde zu schützen, wenn das noch nicht einmal der eigene Selbsterhaltungstrieb vermag?
+![bg](img/meer-von-oben.jpg)
 
 ---
 <!-- _class: structural -->
@@ -84,8 +89,8 @@ Hier kommt die Story Film / Audio sonst was rein
 > Die Liebe!
 
 > Lasst uns also den Menschen die Liebe zur Tiefsee einpflanzen, damit eine tiefe Liebe zu dieser faszinierenden Welt entseht.
-![bg right:40%](img/photo-1451186859696-371d9477be93.avif)
 
+![bg right:40%](img/qualle.jpg)
 
 ---
 <!-- _class: structural -->
@@ -93,7 +98,8 @@ Hier kommt die Story Film / Audio sonst was rein
 ## Vision & Zielsetzung
 
 <i>"Wir wollen ein einzigartiges immersives Erlebnis schaffen, bei dem die Besuchenden die intensive Erfahrung machen, in einem Tauchboot  auf dem Grund der Tiefsee zu sein."</i>
-![bg](img/schwarze-raucher.png)
+
+![bg](img/whalefall.jpg)
 
 ---
 
@@ -107,17 +113,17 @@ Die Besuchenden sollen:
 - motiviert werden, sich für den Schutz der Tiefsee einzusetzen
 ![bg right:40%](img/anemone.jpg)
 ---
-<!-- _class: text-80 -->
+<!-- _class: text-80 structural-->
 ## Die Aufgabenstellung
 
-Entwickeln und konzeptionieren Sie in Teamarbeit eine **Virtual-Reality**-Anwendung in **Unreal 5.8**, die den Betrachter auf die Schönheit der weitgehend unbekannten Unterwasserwelt aufmerksam macht. Zielplattform der Anwendung ist die **CAVE** im **MAVEL-Lab** der THWS in Schweinfurt. 
+Entwickeln und konzeptionieren Sie in Teamarbeit eine **Mixed-Reality**-Anwendung in **Unreal 5.8**, die den Betrachter auf die Schönheit der weitgehend unbekannten Unterwasserwelt aufmerksam macht. Zielplattform der Anwendung ist die **CAVE** im **MAVEL-Lab** der THWS in Schweinfurt. 
 Vermitteln Sie das Gefühl der **Dringlichkeit** dieses unersetzliche Ökosystem zu behüten und zu erforschen, ohne es zu beeinträchtigen.
 Befassen Sie sich **intensiv** mit der **Story** und weiterführend mit dem **Thema Tiefsee**.
 Ordnen Sie sich dann einem der sieben Teams zu und besprechen Sie im Team die zu bearbeitenden Teilaufgaben.
 Erlernen Sie die für Sie erforderlichen Software-Komponenten und Werkzeuge.
 
 ---
-<!-- _class: text-80 -->
+<!-- _class: text-80 structural-->
 
 Am Ende der Veranstaltung erfolgt eine mediale Live-Präsentation durch die Verfasser*innen, sowie eine Ausstellung der Ergebnisse. Abgabe als gemeinsames DIN A1 Hochformat Plakat (gedruckt) und als individuelle Präsentation der eigenen Arbeitsergebnisse.
 Mit der Teilnahme am Kurs stimmen Sie einer möglichen Veröffentlichung Ihrer Arbeit durch die Hochschule und das AWI zu. Die im Rahmen der Arbeit entstandenen Werke verbleiben in Ihrem Urheberrecht, die zeitlich und räumlich unbeschränkten Nutzungsrecht zu Werbe-und Veröffentlichungszwecken und Weiterverwendung erhält die THWS, sowie das AWI.
@@ -133,9 +139,11 @@ Studiengang Geovisualisierung
 - Fakultät FIW Informatik und Wirtschaftsinformatik
 
 **MAVEL-Lab der THWS**
+- Fakultät Wirtschaftsingenieurwesen)
 
-**Alfred-Wegener-Institut – Helmholtz-Zentrum für
-Polar- und Meeresforschung (AWI)**
+**Alfred-Wegener-Institut**
+- Helmholtz-Zentrum für
+Polar- und Meeresforschung (AWI)
 
 ![bg right:40%](img/kooperation.jpg)
 
@@ -158,7 +166,7 @@ des siebten Semesters
 ### Mavel Lab der thws
 - Labor der Fakultät FWI
 - Kooperiert mit der freien Wirtschaft
-- Forschung und Lehr
+- Forschung und Lehre
 
 Eigene Webseite:
 https://mavel.rocks
@@ -190,9 +198,10 @@ Würzburg
 **People**
 - Lab Director: Prof Dr. Uwe Sponholz
 - Staff:
-  - Dominik Fritsch
-  - Florian Schuster
-  - Raman Chakraborty
+  - Dominik Fritsch (Technical Lead)
+  - Florian Schuster (Course Coordination)
+  - Raman Chakraborty (Research Associate)
+  - Chris Haselhoff (Hardware Engineering)
 
 **Competencies**
 Human Centred Design, XR VR, MR, Unreal, wave field synthesis, coding
@@ -259,6 +268,7 @@ Die CAVE (Cave Automatic Virtual Environment) des MAVEL-Labs an der THWS in Schw
 - immersive virtuelle Realität, mit leichten Shutterbrillen
 - Kombination von realen und virtuellen Objekten / phyischen Mockups
 - Mixed Augmented Virtual Experience
+![bg right:40%](img/mavel-lab-thws-cave-stefan-sauer.jpg)
 
 ---
 ## Zielgruppen & Interdisziplinäre Zusammensetzung
@@ -267,9 +277,12 @@ Die CAVE (Cave Automatic Virtual Environment) des MAVEL-Labs an der THWS in Schw
 - Kollaboration unterschiedlicher Charactere und Kompetenzen
 - Simulierung realer Projektbedingungen
 - Projekt mit starker Außen- und Innenwirkung
-- Breite Zielgruppe, von Studiernden, über Lehrende, bis Studieninteressierte
+- Breite Zielgruppe, von Studierenden, über Lehrende, bis Studieninteressierte
+- Stärkung der Nachhaltigkeitsdimension der THWS
+- Einbindung von Schulen im Raum Schweinfurt und Würzburg (Ticketverlosung für die Abschlussveranstaltung)
 
 
+![bg right:40%](img/mavel-lab-thws-cave-3d-virtual-reality-stefan-sauer.jpg)
 
 ---
 ### Ziele und Zielgruppe des MAVEL-Labs
@@ -288,25 +301,31 @@ Gesellschaftliche Relevanz der Ozeane verdeutlichen:
 - Viele unbekannte Lebensräume, Organismen und Prozesse
 - aber vielleicht auch Antworten auf dringende Fragen
 
+![bg right:40%](img/awi-forschung.jpg)
 
 ---
 <!--_class: structural-->
 # Die Story & das didaktische Konzept
 
 > Vor dem Erlebnis steht die Anspannung, das Erwarten und die Stille.
+![bg](img/angler.jpg)
 
 ---
-
+<!--_class: text-80 structural-->
 ## Narrative Dramaturgie
 
 - Das Erlebnis wird wie eine reale Tauchfahrt organisiert
 - Beginnt bereits bei der Ankunft in Schweinfurt
 - Vor dem Erlebnis erfolgt eine Briefing-Phase
 - Inszenierung erhöht die Anspannung
-- Tauchfahrt vom gleißenden Sonnenschein bis in die absolute Dunkelheit der Tiefsee
-- Stille und fremde Geräusche als Begleiter
+- Tauchfahrt vom gleißenden Sonnenschein in die absolute Dunkelheit der Tiefsee
+- Interaktion mit dem Expeditionsleiter (digitaler Frank)
+- Enge, Kälte, Stille und fremde Geräusche als Begleiter
 - Am Tiefseegrund Kontrast zwischen Schönheit und Zerstörung
 - Zurück in die Realität nach dem Auftauchen, Rollos werden geöffnet
+- Expeditionsziele werden vorgegeben und während der Tauchfahrt mit Kommandobrücke der Polarstern besprochen!
+
+![bg](img/drama.jpg)
 
 ---
 ## Das Projektgebiet
@@ -317,6 +336,8 @@ Ein möglicher Spielort für unsere Anwendung
 - langgestrecktes Rechteck im Ostpazifik
 - Breite ca. 7000 km
 
+![bg right:40%](img/ccz.jpg)
+
 ---
 
 | Ecke | Breitengrad (°N) | Längengrad (°W) |
@@ -326,6 +347,8 @@ Ein möglicher Spielort für unsere Anwendung
 | Südwest | 3.0 | −160.0 |
 | Südost | 3.0 | −115.0 |
 
+![bg](img/meer.jpg)
+
 ---
 ### Tiefsee Bergbau
 - Hohe Vorkommen von Manganknollen in der CCZ
@@ -334,6 +357,8 @@ Ein möglicher Spielort für unsere Anwendung
 
 https://de.wikipedia.org/wiki/Clarion-Clipperton-Zone
 
+![bg right:40%](img/mangan-noodles.jpg)
+
 ---
 ### Deutsches Ressourcen-Forschungsgebiet im Pazifik
 - Forschungslizenz seit 2006
@@ -341,21 +366,25 @@ https://de.wikipedia.org/wiki/Clarion-Clipperton-Zone
 - Reine Forschungslizenz, kein Abbau
 - Hohe Vielfalt der Mikrofauna
 - Die bisherigen Erkenntnisse wurden fast ausschließlich durch wissenschaftliche Expeditionen gewonnen
-- Lizenzierte Unternehmen legen ihre Untersuchungen i. d. R. nicht offen
+- Lizenzierte Unternehmen legen ihre Untersuchungen
+i. d. R. nicht offen
 
 https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
+![bg right:40%](img/mikrofauna.jpg)
 
 ---
 ### Ökosystem des CCZ
 
 - Seeberge(Seamounts) als einzigartige Artengemeinschaften
-- Seebergemit Schwamm-und Korallengärten → Lebensraum für Krustentiere, Muscheln, Seesterne, viele bodenbewohnende Organismen.
+- Seeberge mit Schwamm-und Korallengärten → Lebensraum für Krustentiere, Muscheln, Seesterne, viele bodenbewohnende Organismen.
 - Schwarze Raucher (Hydrothermalquellen) als dicht besiedelte Lebensräume der Tiefsee
 - Chemosynthese (Bakterien wandeln Schwefelwasserstoffe in Energie)
 
 https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
+![bg right:40%](img/bodenbewohner.jpg)
 
 ---
+<!-- _class: structural -->
 ### Folgen des Tiefseebergbaus
 - Grundsätzliche Störung des marinen Ökosystems
 - Erheblicher Eingriff in den Lebensraum Meer.
@@ -366,6 +395,8 @@ https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 
 https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 
+![bg](img/verwuestung.jpg)
+
 ---
 ### Daten des Gebiets
 - Download unter https://www.gebco.net/
@@ -374,12 +405,17 @@ https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 - Verwendung in ArcGIS möglich
 
 ---
-
+<!-- _class: structural -->
 ## Die Schlüsselstationen
 - Manganknollenfeld
 - Whalefall
 - Eisfischnester
 - Schwarze Raucher
+- Erkundung neuer Habitate (visuelle Inspektion (< 1%)
+- Kartografieren (< 25%)
+- Kernbohrungen
+
+![bg](img/manganknollenfeld.jpg)
 
 ---
 ### Manganknollenfeld
@@ -389,18 +425,22 @@ https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 ---
 
 **Ressourcen (Manganknollen):** Kartoffelgroße Knollen in 4.000 bis 5.000 Metern Tiefe, die neben Mangan wertvolle Metalle wie Kobalt, Nickel, Kupfer und Seltene Erden enthalten (wichtig für die Energiewende und Batterietechnik).
+![bg right:40%](img/manganknolle.jpg)
 
 ---
 
 **Geplante Abbautechnologie:**
 Einsatz schwerer, ferngesteuerter Unterwasser-Raupenfahrzeuge (Kollektoren), die den Meeresboden umpflügen, die Knollen einsammeln und über ein Rohrsystem zu einem Schiff an der Oberfläche pumpen.
+![bg right:40%](img/rover-und-greifer_geomar.jpg)
 
 ---
-
+<!-- _class: structural -->
 **Ökologische Risiken:** 
   - Massive Zerstörung des extrem empfindlichen und langsam wachsenden benthischen Ökosystems.
   - Aufwirbeln riesiger Sedimentwolken, die sich über weite Strecken verteilen und Filterfiltrierer sowie andere Lebewesen ersticken können.
-  - Erhebliche Lärm- und Lichtverschmutzung in einem ansonsten dunklen und stillen Lebensraum.
+  - Erhebliche Lärm- und Lichtverschmutzung in einem
+  ansonsten dunklen und stillen Lebensraum.
+![bg](img/HD14_0176-00014__1_.jpg)
 
 ---
 
@@ -413,36 +453,53 @@ Die Internationale Meeresbodenbehörde (International Seabed Authority) verwalte
 Während einige Staaten und Unternehmen auf einen baldigen Start des industriellen Abbaus drängen, fordern viele Wissenschaftler, Umweltschutzorganisationen und Staaten ein Moratorium, bis die ökologischen Folgen besser erforscht sind.
 
 ---
+<!-- _class: structural -->
 ### Whalefall
 **Was ist ein Whalefall?**
 Wenn der Kadaver eines großen Wals (z.B. Blau- oder Pottwal) auf den Meeresboden der Tiefsee sinkt, spricht man von einem "Whalefall". Er bringt schlagartig gigantische Mengen an Nährstoffen in einen ansonsten sehr nahrungsarmen, dunklen Lebensraum.
 
+![bg](img/whalefall-lebt.jpg)
+
 ---
+<!-- _class: structural -->
 **Bedeutung als Mikro-Ökosystem:**
 Der Kadaver wird zu einer regelrechten Oase des Lebens, die jahrzehntelang ein hochkomplexes, spezialisiertes Ökosystem aufrechterhält. Ein einziger Wal liefert schätzungsweise so viel Kohlenstoff, wie sonst in 2.000 Jahren auf diese Fläche des Meeresbodens "regnet".
 
+![bg](img/blauwal.jpg)
+
 ---
+
 **Die drei Stadien der Zersetzung:**
-  1. **Aasfresser-Stadium (Mobile-scavenger stage):** Haie, Schleimaale und Krebstiere fressen über Monate bis Jahre hinweg das weiche Gewebe in rasendem Tempo ab.
+  1. **Aasfresser-Stadium (Mobile-scavenger stage):** Haie, Schleimaale und Krebstiere fressen über Monate bis Jahre
+  hinweg das weiche Gewebe in rasendem Tempo ab.
   2. **Anreicherungs-Stadium (Enrichment-opportunist stage):** Würmer und kleine Krebstiere besiedeln die Knochen und das umliegende, extrem nährstoffreiche Sediment, das von den organischen Resten durchtränkt ist.
-  3. **Sulfophiles Stadium (Sulfophilic stage):** Kann Jahrzehnte andauern. Bakterien zersetzen die Fette im Inneren der gewaltigen Walknochen. Dabei entsteht Schwefelwasserstoff (ähnlich wie an Schwarzen Rauchern). Dieser dient als Energiequelle für hochspezialisierte chemosynthetische Lebewesen, etwa den Knochenfresser-Wurm (Osedax).
+  3. **Sulfophiles Stadium (Sulfophilic stage):** Kann Jahrzehnte andauern. Bakterien zersetzen die Fette im Inneren der
+  gewaltigen Walknochen. Dabei entsteht Schwefelwasserstoff (ähnlich wie an Schwarzen Rauchern). Dieser dient als Energiequelle für hochspezialisierte chemosynthetische Lebewesen, etwa den Knochenfresser-Wurm (Osedax).
+![bg right:40%](img/krebstiere.jpg)
 
 ---
 **Evolutionäre "Trittsteine" (Stepping Stones):**
 Wissenschaftler vermuten, dass Whalefalls als evolutionäre Trittsteine fungieren, über die sich chemosynthetische Arten (die auch an heißen Quellen und Cold Seeps vorkommen) über weite Distanzen am Meeresboden ausbreiten können.
+![bg right:40%](img/chemosysthese.jpg)
 
 ---
+<!-- _class: structural -->
 ### Eisfischnester
 **Sensationelle Entdeckung (AWI-Forschung):**
 Im Jahr 2021 entdeckten Forscher des Alfred-Wegener-Instituts (AWI) mit dem Forschungsschiff *Polarstern* im antarktischen Weddellmeer die weltweit größte bekannte Fischbrutkolonie.
+![bg](img/eisfische.jpg)
 
 ---
+<!-- _class: structural -->
 **Gigantisches Ausmaß:**
 Die Kolonie der sogenannten Jonas-Eisfische (*Neopagetopsis ionah*) erstreckt sich über eine Fläche von ca. 240 Quadratkilometern und umfasst schätzungsweise 60 Millionen Nester.
+![bg](img/jonas-eisfische.jpg)
 
 ---
+<!-- _class: structural -->
 **Aufbau der Nester:**
 Die Fische legen kreisrunde, kiesartige Mulden (ca. 75 cm Durchmesser, 15 cm tief) auf dem Meeresboden an. Jedes bebrütete Nest enthält im Durchschnitt über 1.500 Eier und wird in der Regel von einem erwachsenen Eisfisch aggressiv gegen Raubfische verteidigt.
+![bg right:40%](img/nest.jpg)
 
 ---
 **Biologie der Eisfische:**
@@ -450,62 +507,93 @@ Die Fische legen kreisrunde, kiesartige Mulden (ca. 75 cm Durchmesser, 15 cm tie
 - Frostschutzproteine verhindern, dass ihr Blut bei den Temperaturen unter dem Gefrierpunkt gefriert.
 
 ---
+<!-- _class: structural -->
 **Ökologische Bedeutung:**
 Diese gigantische Ansammlung von Biomasse (geschätzte 60.000 Tonnen) bildet einen Hotspot des Lebens im eisigen Südpolarmeer und dient beispielsweise Weddellrobben als riesiges "All-you-can-eat"-Buffet. Die Entdeckung unterstreicht, wie wenig wir über bestimmte marine Ökosysteme wissen und wie schützenswert sie sind.
 
+![bg right:40%](img/weddelrobbe.jpg)
 
 ---
+<!-- _class: structural -->
 ### Schwarze Raucher
 **Was sind Schwarze Raucher?**
 Schwarze Raucher sind hydrothermale Quellen, vulkanische Austritte am Meeresboden, meist in Tiefsee-Grabenbruchzonen (z.B. am Mittelatlantischen Rücken in 2.000 bis 3.000 Metern Tiefe).
+![bg](img/Amphipodswarm.jpg)
 
 ---
+<!-- _class: structural -->
 **Geologie und Chemie:**
 Meerwasser sickert durch Risse im Meeresboden in die Kruste, wird in der Nähe von Magmakammern stark erhitzt (bis über 400 °C) und reichert sich mit Mineralien wie Eisen, Kupfer, Zink, Schwefelwasserstoff und Kohlendioxid an.
+
+Von MARUM − Zentrum für Marine Umweltwissenschaften, Universität Bremen - MARUM, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=76498971
+![bg](img/MARUM_Schwarzer_Raucher.jpg)
 
 ---
 **Das Aussehen:**
 Beim Kontakt mit dem kalten Tiefseewasser (ca. 2 °C) fallen die gelösten Metallsulfide aus und bilden hohe Schornsteine (oft mehrere Meter hoch) aus schwarzem Material. Dies ähnelt optisch dem Rauch von Schloten – daher der Name.
+![bg right:40%](img/schwarze-raucher-wikipedia.jpg)
 
 ---
+<!-- _class: structural -->
 **Lebensgemeinschaften (Extremophile):**
 Entgegen der Annahme, die Tiefsee sei arm an Leben, beherbergen Schwarze Raucher extrem artenreiche Lebensgemeinschaften.
+
+Von MARUM − Zentrum für Marine Umweltwissenschaften, Universität Bremen - MARUM, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=76498972
+![bg](img/MARUM_Schwarzer_Raucher_Fauna.jpg)
 
 ---
 **Chemosynthese – Die Grundlage:**
 Da kein Sonnenlicht hinkommt, produzieren spezialisierte Bakterien und Archaeen ihre Energie nicht durch Photosynthese, sondern durch **Chemosynthese**:
 Sie oxidieren Schwefelwasserstoff (H₂S) aus den Quellen und wandeln chemische Energie in organische Substanz um.
+![bg right:40%](img/chemosynthese.jpg)
 
 ---
 **Ernährungspyramide:**
 - **Basis:** Chemosynthetische Mikroorganismen (Bakterien/Archaeen).
-- **Primärkonsumenten:** Massive Kolonien von Röhrenwürmern (z.B. *Riftia pachyptila*), die bis zu 2 Meter lang werden können. Sie besitzen kein Verdauungssystem, sondern leben in Symbiose mit den Bakterien in ihrem Inneren.
-- **Sekundär:** Viele Muscheln, Schnecken, Garnelen und wenige Fische.
+- **Primärkonsumenten:** Massive Kolonien von Röhrenwürmern
+(z.B. *Riftia pachyptila*), die bis zu 2 Meter lang werden können.
+Sie besitzen kein Verdauungssystem, sondern leben in
+Symbiose mit den Bakterien in ihrem Inneren.
+- **Sekundär:** Viele Muscheln, Schnecken, Garnelen
+und wenige Fische.
+![bg right:40%](img/roehrenwuermer.jpg)
 
 ---
 **Hotspot-Charakter:**
 Schwarze Raucher sind marine "Oasen" in der riesigen Tiefsee-Wüste. Sie zeigen, dass Leben unter extremen Bedingungen (hoher Druck, Dunkelheit, giftige Chemikalien) möglich ist und sich unabhängig von Sonnenenergie entwickeln kann. Diese Entdeckung hat auch Auswirkungen auf die Suche nach extraterrestrischem Leben (z.B. auf Jupitermonden). 
+![bg right:40%](img/extraterrestrisch.jpg)
 
 ---
-## Gamification & Live-Feed-Gedanke
+<!-- _class: structural -->
+# Gamification & Live-Feed-Gedanke
 
 ### Gamification
-- das virtuelle Forschungsprojekt basiert auf einer Spielemechanik
+- das virtuelle Forschungsprojekt basiert auf
+einer Spielemechanik
 - es gibt lineare Abläufe (Abtauchen) & freie Entscheidungsmöglichkeiten (Steuern am Meeresboden)
-- es ist eine Mission zu erfüllen (z.B. Daten sammeln, Aufnahmen des Abbaus von Manganknollen machen, Proben entnehmen)
+- es ist eine Mission zu erfüllen (z.B. Daten sammeln,
+Aufnahmen des Abbaus von Manganknollen machen,
+Proben entnehmen)
+![bg right:40%](img/tauchboot-sinkt-ab.jpg)
 
 ---
 
 ### Live-Feed-Gedanke
 - der Ablauf wird von realen Personen live begleitet
-- Während des Tauchgangs besteht auditiver Kontakt zur Oberfläche
-- Die Crew auf der Oberfläche gibt Informationen und Kommandos
-- es soll ein Gefühl von Nähe und Verbundenheit zur Crew entstehen
-- es werden regelmäßig Updates zu den Zuschauerzahlen gegeben
-
+- Während des Tauchgangs besteht auditiver
+Kontakt zur Oberfläche
+- Die Crew auf der Oberfläche gibt Informationen
+und Kommandos
+- es soll ein Gefühl von Nähe und Verbundenheit
+zur Crew entstehen
+- es werden regelmäßig Updates zu den
+Zuschauerzahlen gegeben
+![bg right:40%](img/aus-dem-tauchboot.jpg)
 ---
 <!-- _class: structural-->
+
 # Exkursion nach Bremerhaven
+![bg](img/bremerhaven.jpg)
 
 ---
 ## Ziele der Exkursion
@@ -516,10 +604,14 @@ Schwarze Raucher sind marine "Oasen" in der riesigen Tiefsee-Wüste. Sie zeigen,
 - Teambildung
 - Commitment auf ein gemeinsames Ziel
 - Kennenlernen der Hafenstadt Bremerhaven
-- Schnuppern von Seemannsluft, Fischerei- und Hafenatmosphäre
+- Schnuppern von Seemannsluft, Fischerei-
+und Hafenatmosphäre
+- Identifikation und Besprechunggemeinsamer Forschungsanträge
 
+![bg right:40%](img/hafenathmosphaere.jpg)
 
 ---
+<!-- _class: structural -->
 ## Daten und Fakten
 
 **Zeitraum**
@@ -530,21 +622,24 @@ Schwarze Raucher sind marine "Oasen" in der riesigen Tiefsee-Wüste. Sie zeigen,
 - Stefan Sauer		Betreuer
 - Florian Schuster	Betreuer
 - Prof. Dr. Uwe Sponholz	Mitarbeiter
-- Dominik Fritsche	Mitarbeiter
+- Dominik Fritsch	Mitarbeiter
 - Chris Haselhoff		Mitarbeiter
 - 15 Studierende aus FKV und FIW
+![bg](img/der-ozean-und-wir.jpg)
 
 ---
 **Allgemeine Informationen**
 
 - Wir werden in Bremerhaven auch viel zu Fuß unterwegs sein.
-Achten Sie auf leichtes Gepäck, gutes Schuhwerk und wetterfeste Kleidung.
+Achten Sie auf leichtes Gepäck, gutes Schuhwerk und
+wetterfeste Kleidung.
 - GGf. Gummistiefel für Wattwanderung (können auch vor Ort geliehen werden)
 - Es gilt Selbstversorgung während der Exkursion
 - Die Fahrt erfolgt mit drei thws-Bussen
-- Fahrtkosten, Übernachtungskosten und Museumseintritte werden übernommen
+- Fahrtkosten, Übernachtungskosten und Museumseintritte
+werden übernommen
 - von den Studierenden ist vorab ein EIgenanteil zu leisten
-
+![bg right:40%](img/zu-fuss.jpg)
 
 ---
 ## Ablauf & Programm
@@ -555,6 +650,7 @@ Achten Sie auf leichtes Gepäck, gutes Schuhwerk und wetterfeste Kleidung.
 **U-Bootes Wilhelm Bauer**
 https://uboot-wilhelm-bauer.de/
 https://maps.app.goo.gl/rbNgqmpyVJQjgrxQA
+![bg right:40%](img/Wilhelm-Bauer.jpg)
 
 ---
 - Ab ca. 15:00 Uhr Besuch des
@@ -563,6 +659,7 @@ https://www.dsm.museum/
 https://maps.app.goo.gl/4C6eiC8w8eoTa8MMA
 - Zurück zum Hotel
 - gemeinsames Abendessen und Diskussionen
+![bg right:40%](img/Schifffahrtmuseum.jpg)
 
 ---
 ### 13.10.2026
@@ -570,9 +667,10 @@ https://maps.app.goo.gl/4C6eiC8w8eoTa8MMA
 - Organisation durch Frank Wenzhöfer
 - Führung durch das Institut
 - Gesprächsrunde mit Dr. Frank Wenzhöfer
+![bg right:40%](img/awi.jpg)
 
 ---
-
+<!-- _class: structural-->
 - Danach Besuch des „Schaufenster Fischereihafen“? (Alternativvorschläge möglich)
 https://www.schaufenster-fischereihafen.de/
 https://maps.app.goo.gl/aWH4weTZG5DH9d8i6
@@ -581,6 +679,7 @@ Fußläufig vom AWI 35 min.
 Sieht nach einem tollen 360° Erlebnis aus!
 - Ausklang bei gemeinsamen Abendessen und Diskussionen
 Essen am Fischereihafen
+![bg](img/letzte-kneipe-vor-new-york.jpg)
 
 ---
 
@@ -593,7 +692,9 @@ https://www.uni-bremen.de/uft
 - Danach Wattwanderung:
 https://www.nationalpark-wattenmeer.de/
 https://maps.app.goo.gl/5p9jTq9Bv5Bv5Bv5A
-Treffpunkt nach Absprache (abhängig von Wetter und Gezeiten)
+Treffpunkt nach Absprache
+(abhängig von Wetter und Gezeiten)
+![bg right:40%](img/wattwanderung.jpg)
 
 ---
 ### 15.10.2026
@@ -603,9 +704,10 @@ https://www.klimahaus-bremerhaven.de/
 https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 - Abreise ca. 13:00 Uhr
 - Ankunft in Würzburg geegen Abend
+![bg right:40%](img/klimahaus.jpg)
 
 ---
-
+<!-- _class: structural-->
 ## Arbeitsaufträge für die Exkursionsphase
 - Team-Zuordnung
 - Commitment auf eine gemeinsame Story
@@ -614,7 +716,7 @@ https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 - Sichtung der bereits erstelleten Assets
 - gezielte Nachfragen an Dr. Frank Wenzhöfer, Notizen anfertigen und zusammentragen
 
-
+![bg left:40%](img/letzte-kneipe-vor-new-york-innen.jpg)
 
 ---
 <!-- _class: structural -->
@@ -628,7 +730,7 @@ https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 | 01 | **07.10.2026** | Kickoff in Schweinfurt |
 | 02 | **14.10.2026** | Exkursion Bremerhaven |
 | 03 | **21.10.2026** | Campusday - vorlesungsfrei |
-| 04 | **28.10.2026** | Einführung in Unreal von Dominik Fritsche |
+| 04 | **28.10.2026** | Einführung in Unreal von Dominik Fritsch |
 | 05 | **04.11.2026** | Regulärer Termin |
 | 06 | **11.11.2026** | Regulärer Termin |
 | 07 | **18.11.2026** | Buß- und Bettag — *vorlesungsfrei* |
@@ -692,7 +794,7 @@ Das Referat ist als pdf abzugeben und geht in die Bewertung ein.
 
 ## Betreuungskonzept
 
-Der Kurs wird durch Stefan Sauer und Florian Schuster betreut. Dominik Fritsche steht als Ansprechpartner für technische Fragen zur Verfügung.
+Der Kurs wird durch Stefan Sauer und Florian Schuster betreut. Dominik Fritsch steht als Ansprechpartner für technische Fragen zur Verfügung.
 
 ---
 
@@ -734,10 +836,11 @@ Kompetenzen:
 - Physischer Bau des U-Bootes
 - Workflow-Optimierung (Team-übergreifend)
 - Vermittler zwischen den Fakultäten
+- Erfahrungen in und Spaß an der Lehre
 
 ---
 
-**Dominik Fritsche**
+**Dominik Fritsch**
 
 Aufgaben:
 - Technical Lead
@@ -753,6 +856,7 @@ Kompetenzen:
 - Game-Design
 - Technische Unterstützung bei Problemen mit den Tools der Teams
 - Organisation und Durchführung von Workshops
+- Erfahrungen in der Lehre (Sofwaretraining)
 
 ---
 
