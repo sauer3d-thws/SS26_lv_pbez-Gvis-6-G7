@@ -21,17 +21,6 @@ math: mathjax
 
 Hier kommt die Story Film / Audio sonst was rein
 
----
-<!-- _class: text-80 -->
-
-Sollen wir hier noch die Vorgeschichte vom letzten Jahr bringen?
-
-Die Vorgeschichte
-2099 hat sich die Gesellschaft gewandelt.
-Ein Teil der Bevölkerung hat sich abgespalten und lebt auf
-und unter dem Meer. Die Tech-Milliardäre, genannt die Atlanten, haben sich aus Ölplattformen und Kreuzfahrtschiffen einen schwimmenden Kontinent erschaffen. Das eigentliche Leben findet jedoch unter der Wasseroberfläche statt. Die gigantischen Serverfarmen benötigen so viel Kühlung, dass der Energiebedarf an Land alleine für die Kühlung Großstädte versorgen könnte. Energie beziehen die Atlanten aus Sonne, Wind und Wellen. Knapp unter der Wasseroberfläche sind lichtdurchflutete Großtädtenach dem Muster der Stadt "The Line" entstanden.
-
-usw...
 
 ---
 <!-- _class: structural -->
@@ -95,12 +84,16 @@ usw...
 > Die Liebe!
 
 > Lasst uns also den Menschen die Liebe zur Tiefsee einpflanzen, damit eine tiefe Liebe zu dieser faszinierenden Welt entseht.
+![bg right:40%](img/photo-1451186859696-371d9477be93.avif)
+
 
 ---
+<!-- _class: structural -->
 
 ## Vision & Zielsetzung
 
 <i>"Wir wollen ein einzigartiges immersives Erlebnis schaffen, bei dem die Besuchenden die intensive Erfahrung machen, in einem Tauchboot  auf dem Grund der Tiefsee zu sein."</i>
+![bg](img/67381aa2-1a22-4ed6-9632-08cdcbeb53b3.jpg)
 
 ---
 
@@ -108,22 +101,22 @@ Die Besuchenden sollen:
 - fasziniert werden von der Schönheit der Tiefsee
 - die Verletzlichkeit des Ökosystems verstehen
 - motiviert werden, sich für den Schutz der Tiefsee einzusetzen
-
+![bg right:40%](img/anemone.jpg)
 ---
 <!-- _class: text-80 -->
 ## Die Aufgabenstellung
 
-Entwickeln und konzeptionieren Sie in Teamarbeit eine Virtual-Reality-Anwendung in Unreal 5.8, die den Betrachter auf die Schönheit der weitgehend unbekannten Unterwasserwelt aufmerksam macht. Zielplattform der Anwendung ist die CAVE im MAVEL-Lab der THWS in Schweinfurt. 
-Vermitteln Sie das Gefühl der Dringlichkeit dieses unersetzliche Ökosystem zu behüten und zu erforschen, ohne es zu beeinträchtigen.
-Befassen Sie sich intensiv mit der Story und weiterführend mit dem Thema Tiefsee.
+Entwickeln und konzeptionieren Sie in Teamarbeit eine **Virtual-Reality**-Anwendung in **Unreal 5.8**, die den Betrachter auf die Schönheit der weitgehend unbekannten Unterwasserwelt aufmerksam macht. Zielplattform der Anwendung ist die **CAVE** im **MAVEL-Lab** der THWS in Schweinfurt. 
+Vermitteln Sie das Gefühl der **Dringlichkeit** dieses unersetzliche Ökosystem zu behüten und zu erforschen, ohne es zu beeinträchtigen.
+Befassen Sie sich **intensiv** mit der **Story** und weiterführend mit dem **Thema Tiefsee**.
 Ordnen Sie sich dann einem der sieben Teams zu und besprechen Sie im Team die zu bearbeitenden Teilaufgaben.
 Erlernen Sie die für Sie erforderlichen Software-Komponenten und Werkzeuge.
 
 ---
 <!-- _class: text-80 -->
 
-Am Ende der Veranstaltung erfolgt eine mediale Live -Präsentation durch die Verfasser*innen, sowie eine Ausstellung der Ergebnisse. Abgabe als gemeinsames DIN A1 Hochformat Plakat gedruckt und als individuelle Präsentation der eigenen Arbeitsergebnisse.
-Mit der Teilnahme am Kurs stimmen Sie einer möglichen Veröffentlichung Ihrer Arbeit durch die Hochschule und das AWI zu.Die im Rahmen der Arbeit entstandenen Werke verbleiben in Ihrem Urheberrecht, die zeitlich und räumlich unbeschränkten Nutzungsrecht zu Werbe-und Veröffentlichungszwecken und Weiterverwendung erhält die THWS, sowie das AWI.
+Am Ende der Veranstaltung erfolgt eine mediale Live-Präsentation durch die Verfasser*innen, sowie eine Ausstellung der Ergebnisse. Abgabe als gemeinsames DIN A1 Hochformat Plakat (gedruckt) und als individuelle Präsentation der eigenen Arbeitsergebnisse.
+Mit der Teilnahme am Kurs stimmen Sie einer möglichen Veröffentlichung Ihrer Arbeit durch die Hochschule und das AWI zu. Die im Rahmen der Arbeit entstandenen Werke verbleiben in Ihrem Urheberrecht, die zeitlich und räumlich unbeschränkten Nutzungsrecht zu Werbe-und Veröffentlichungszwecken und Weiterverwendung erhält die THWS, sowie das AWI.
 
 ---
 ## Projektpartner
@@ -138,18 +131,22 @@ DAs Projekt entsteht in einer Kooperation aus:
 
 **Alfred-Wegener-Institut – Helmholtz-Zentrum für Polar- und Meeresforschung (AWI)**
 
+![bg right:40%](img/kooperation.jpg)
+
 ---
 ### thws
 
-Interdisziplinäres Projekt innerhalb der THWS unter Einbeziehung von Studierenden unterschiedlicher Fakultäten.
+Interdisziplinäres Projekt innerhalb der THWS unter Ein- beziehung von Studierenden unterschiedlicher Fakultäten.
 
-#### FKV Studiengang Geovisualisierung
-- "Projektbezogene Geovisualisierung" als Modul des siebten Semesters
-- Schwerpunkte: 3D Visualsierung, Animation, Echtzeit-VR
+#### FKV Studiengang [Geovisualisierung](https://geo.thws.de)
+- "Projektbezogene Geovisualisierung" als Modul
+des siebten Semesters
+- Schwerpunkte: 3D Visualsierung, Animation, VR
 
 #### FIW
 - Wahlpflichtmodul
 - Studiengänge: Informatik, Wirtschaftsinformatik, Informationssicherheit, Digitale Gesellschaft
+![bg right:40%](img/geo-thws-de.jpg)
 
 ---
 ### Mavel Lab der thws
@@ -159,23 +156,26 @@ Interdisziplinäres Projekt innerhalb der THWS unter Einbeziehung von Studierend
 
 Eigene Webseite:
 https://mavel.rocks
+![bg right:40%](img/mavel-rocks.jpg)
 
 ---
 
 **Lab Description**
 - Founded: 2022
-- Virtual xperience earning Lab
-- Location: THWS-Ledward Campus-Room 20.f.22
-- Mission: Making things tangible that are not easfly acce.ssib/e and/or threaten iife
-and limb. Jnspire people to use XR in their domain
-- Vision: The competence center for muftisensory applimtions afXR
+- MAVEL - 
+Mixed Augmented Virtual Experience Learning Lab
+- Location: THWS-Ledward Campus-Room 20.E.22
+- Mission: Making things tangible that are not easily accessible and/or threaten life
+and limb. Inspire people to use XR in their domain.
+- Vision: The competence center for multisensory
+applications of XR
 - Target Audience: Students, lndustry, Research
-
+![bg right:40%](img/mavel-lab-thws-cave-3d-scan-3d-brille-stefan-sauer.jpg)
 ---
 **Partnerships and Collaborations**
-- Internal: IDIS, IDEE, Plastics Engineering and Surveying„ Architecture and Civil Engineering, Business School, CERI
+- Internal: IDIS, IDEE, Plastics Engineering and Surveying, Architecture and Civil Engineering, Business School, CERI
 - Academic: Innovation Management, Design Thinking, VR Deep Sea Exploration (FWPM)
-- Industry: Koenig & Bauer, Schaeffler, Bosch Rexroth, Hilti, Fresenius, Wurth
+- Industry: Koenig & Bauer, Schaeffler, Bosch Rexroth, Hilti, Fresenius, Würth
 - Government Agencies: Bayerisches LKA, Museum für Franken, Feuerwehrschule
 Würzburg
 - Memberships: XR HUB BAVARIA
@@ -190,6 +190,7 @@ Würzburg
 
 **Competencies**
 Human Centred Design, XR VR, MR, Unreal, wave field synthesis, coding
+![bg right:40%](img/uwe.jpg)
 
 ---
 **Research focus and Capabilities**
@@ -199,6 +200,7 @@ Human Centred Design, XR VR, MR, Unreal, wave field synthesis, coding
 **Technologies & Equipment:**
 - High-performance Computer Cluster, 3D Glasses, CAVE-System, Audio spatial Sound Wave
 - System, Media Truss System, Realtime Engines, Media Technology, Building Automation System
+![bg right:40%](img/mavel-samples.jpg)
 
 ---
 ### Alfred Wegener Institut AWI
@@ -213,13 +215,19 @@ Geowissenschaftler Alfred Wegener.
 - Mehr als 900 Mitarbeitende.
 https://awi.de/
 
+![bg right:40%](img/awi-de.jpg)
+
 ---
 **Forschungsbereiche**
 
-- **Geowissenschaften**: Erforschung des geologischen Aufbaus der Polarregionen, Eisschilde, Sedimente, Erdkruste, Permafrost.
-- **Biowissenschaften**: Ökologie, Physiologie, Veränderungen von Populationen und Ökosystemen; Plankton, Kaltwasserkorallen etc.; auch Untersuchungen in gemäßigten Meeresregionen wie der Nordsee.
-- **Klimawissenschaften**: Wechselwirkungen Ozean-Eis-Atmosphäre; Modellierung des Klimasystems; Untersuchung menschlich verursachter und natürlicher Klimaveränderungen
+- **Geowissenschaften**: Geologischer Aufbau der Polarregionen, Eisschilde,
+Sedimente, Erdkruste, Permafrost.
+- **Biowissenschaften**: Ökologie, Physiologie, Ökosysteme, Plankton, Kaltwasserkorallen etc.;
+- **Klimawissenschaften**: Wechselwirkungen Ozean-Eis-Atmosphäre; Modellierung des Klimasystems;
+Untersuchung menschlich verursachter und natürlicher Klimaveränderungen
 https://www.awi.de/forschung/forschungs-programm.html
+
+![bg right:40%](img/forschung.jpg)
 
 ---
 **Dr. Frank Wenzhöfer**
@@ -232,7 +240,7 @@ Forschungsschwerpunkte:
 
 https://www.awi.de/forschung/biowissenschaften/tiefsee-oekologie-und-technologie.html
 
-
+![bg right:40%](img/frank.jpg)
 
 ---
 ## Zielplattform: Die CAVE im MAVEL-Lab Schweinfurt
@@ -723,7 +731,7 @@ Kompetenzen:
 
 **Dominik Fritsche**
 
-Aufgaben
+Aufgaben:
 - Technical Lead
 - Betreuung der Cave
 - Programmierung und Shading
@@ -784,13 +792,13 @@ Kompetenzen:
 ---
 
 ## Team-Übersicht
-Team 1 - Leitung und Orga (max. 2 Pax)
-Team 2 - Physischer Bau (max 2 Pax)
-Team 3 - Hardware-Interaktion & Elektronik (max 2 Pax)
-Team 4 - UI/UX & Sounddesign (max. 2 Pax)
-Team 5 - Engine-Programmierung (max. 1 Pax)
-Team 6 - Level Design (Min. 2 Pax, max. 4 Pax)
-Team 7 - VFX (Min. 2 Pax, max. 4 Pax)
+**Team 1** - Leitung und Orga (max. 2 Pax)
+**Team 2** - Physischer Bau (max 2 Pax)
+**Team 3** - Hardware-Interaktion & Elektronik (max 2 Pax)
+**Team 4** - UI/UX & Sounddesign (max. 2 Pax)
+**Team 5** - Engine-Programmierung (max. 1 Pax)
+**Team 6** - Level Design (Min. 2 Pax, max. 4 Pax)
+**Team 7** - VFX (Min. 2 Pax, max. 4 Pax)
 
 ---
 
@@ -817,7 +825,7 @@ Aufgaben:
 - Kommunikation der Schnittstellen (Arduino / Gamecontroller)
 
 ---
-### Team 2: Physischer Bau 
+### Team 2 - Physischer Bau 
 max. 2 Personen aus FKV & FIW
 
 Dieses Team ist für die haptische Ebene in der CAVE zuständig. Sie bauen das reale Mock-up, in dem die User später sitzen.
@@ -833,7 +841,7 @@ Aufgaben:
 
 ---
 
-### Team 3 Hardware-Interaktion & Elektronik
+### Team 3 - Hardware-Interaktion & Elektronik
 max. 2 Personen aus FKV & FIW
 Dieses Team schlägt die Brücke zwischen der physischen Kiste und der virtuellen Engine (z.B. Unreal Engine, Arduino).
 
@@ -870,7 +878,7 @@ Design der Sci-Fi-Unterwasserkarte (2D-Grafiken für die Zielregionen: Mangankno
 
 ---
 
-Team 5 - Engine-Programmierung
+### Team 5 - Engine-Programmierung
 
 max. 1 Person
 
@@ -978,8 +986,8 @@ Röntgenring Raum D.4.01 / D.4.02 installiert
 
 - Dokumentation ausschließlich über Confluence:
 https://vr-lab.atlassian.net/wiki/spaces/PG/pages/3016785921/Tiefsee-2026-27
-- Versionsverwaltung via Github
-https://git.fiw.fhws.de/
+- Versionsverwaltung via GitLab https://git.fiw.fhws.de/
+Leeres Repository: https://git.fiw.fhws.de/sauers/tiefsee-2026-27
 - Versenden großer Datenmengen:
 https://gigamove.rwth-aachen.de/de
 - Versenden mittlerer Datenmengen / Archivierung:
