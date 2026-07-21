@@ -93,6 +93,10 @@ Hier kommt die Story Film / Audio sonst was rein
 ## Vision & Zielsetzung
 
 <i>"Wir wollen ein einzigartiges immersives Erlebnis schaffen, bei dem die Besuchenden die intensive Erfahrung machen, in einem Tauchboot  auf dem Grund der Tiefsee zu sein."</i>
+![bg](img/schwarze-raucher.png)
+
+---
+
 ![bg](img/67381aa2-1a22-4ed6-9632-08cdcbeb53b3.jpg)
 
 ---
@@ -124,12 +128,14 @@ Mit der Teilnahme am Kurs stimmen Sie einer möglichen Veröffentlichung Ihrer A
 DAs Projekt entsteht in einer Kooperation aus:
 
 **Technische Hochschule Würzburg-Schweinfurt**
-- Fakultät FKV Kunststofftechnik und Vermessung, Studiengang Geovisualisierung
+- Fakultät FKV Kunststofftechnik und Vermessung,
+Studiengang Geovisualisierung
 - Fakultät FIW Informatik und Wirtschaftsinformatik
 
 **MAVEL-Lab der THWS**
 
-**Alfred-Wegener-Institut – Helmholtz-Zentrum für Polar- und Meeresforschung (AWI)**
+**Alfred-Wegener-Institut – Helmholtz-Zentrum für
+Polar- und Meeresforschung (AWI)**
 
 ![bg right:40%](img/kooperation.jpg)
 
@@ -220,9 +226,10 @@ https://awi.de/
 ---
 **Forschungsbereiche**
 
-- **Geowissenschaften**: Geologischer Aufbau der Polarregionen, Eisschilde,
-Sedimente, Erdkruste, Permafrost.
-- **Biowissenschaften**: Ökologie, Physiologie, Ökosysteme, Plankton, Kaltwasserkorallen etc.;
+- **Geowissenschaften**: Geologischer Aufbau der
+Polarregionen, Eisschilde, Sedimente, Erdkruste, Permafrost.
+- **Biowissenschaften**: Ökologie, Physiologie, Ökosysteme,
+Plankton, Kaltwasserkorallen etc.;
 - **Klimawissenschaften**: Wechselwirkungen Ozean-Eis-Atmosphäre; Modellierung des Klimasystems;
 Untersuchung menschlich verursachter und natürlicher Klimaveränderungen
 https://www.awi.de/forschung/forschungs-programm.html
@@ -233,7 +240,8 @@ https://www.awi.de/forschung/forschungs-programm.html
 **Dr. Frank Wenzhöfer**
 Wissenschaftler am AWI für Tiefseeökologie und –technologie
 Forschungsschwerpunkte:
-- Benthische Ökologie und biogeochemische Prozesse- Benthische Primärproduktion
+- Benthische Ökologie und biogeochemische Prozesse-
+Benthische Primärproduktion
 - Hadal-Graben-Systeme
 - Biogeochemie von kalten Quellen und hydrothermalen Schloten
 - Mariner Kohlenstoffkreislauf-Sensortechnologie
