@@ -723,38 +723,33 @@ https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 # Organisation & Ablauf
 
 ---
-
+<!-- _class: vielText -->
 ## Terminplanung (Semesterübersicht)
-| Nr. | Datum | Status / Anmerkung |
-| :--- | :--- | :--- |
-| 01 | **07.10.2026** | Kickoff in Schweinfurt |
-| 02 | **14.10.2026** | Exkursion Bremerhaven |
-| 03 | **21.10.2026** | Campusday - vorlesungsfrei |
-| 04 | **28.10.2026** | Einführung in Unreal von Dominik Fritsch |
-| 05 | **04.11.2026** | Regulärer Termin |
-| 06 | **11.11.2026** | Regulärer Termin |
-| 07 | **18.11.2026** | Buß- und Bettag — *vorlesungsfrei* |
+| Nr. | Datum | Uhrzeit | Status / Anmerkung |
+| :--- | :--- | :--- | :--- |
+| 01 | **07.10.2026** | 13:30-16:00 | Kickoff in Schweinfurt |
+| 02 | **08.10.2026** | 12:30-16:00 | Vorbereitung Exkursion |
+| 03 | **12. - 15.10.2026** | ganztägig | Exkursion Bremerhaven |
+| - | **21.10.2026** | ganztägig | *Campusday - vorlesungsfrei* |
+| 04 | **28.10.2026** | 12:30-16:00 | Einführung in Unreal von Dominik Fritsch |
+| 05 | **04.11.2026** | 12:30-16:00 | Regulärer Termin |
+| 06 | **11.11.2026** | 12:30-16:00 | Regulärer Termin |
+| - | **18.11.2026** | ganztägig | *Buß- und Bettag — vorlesungsfrei* |
+| 07 | **25.11.2026** | 12:30-16:00 | Regulärer Termin |
 ---
-
-| Nr. | Datum | Status / Anmerkung |
-| :--- | :--- | :--- |
-| 08 | **25.11.2026** | Regulärer Termin |
-| 09 | **02.12.2026** | Zwischenpräsentation in Schweinfurt |
-| 10 | **09.12.2026** | Regulärer Termin |
-| 11 | **16.12.2026** | Regulärer Termin |
-| 12 | **23.12.2026** | Regulärer Termin |
+<!-- _class: vielText -->
+| Nr. | Datum | Uhrzeit | Status / Anmerkung |
+| :--- | :--- | :--- | :--- |
+| 08 | **02.12.2026** | 13:30 - 16:00| Zwischenpräsentation in Schweinfurt |
+| 09 | **09.12.2026** | 12:30-16:00 | Regulärer Termin |
+| 10 | **16.12.2026** | 12:30-16:00 | Regulärer Termin |
+| 11 | **23.12.2026** | 12:30-16:00 | Regulärer Termin |
 | — | *30.12.2026* | *Entfällt (Weihnachtspause)* |
 | — | *06.01.2027* | *Entfällt (Weihnachtspause)* |
-
+| 12 | **13.01.2027** | 12:30-16:00 | Bugfixing / Implementierung Finaler Daten |
+| 13 | **20.01.2027** | 13:30-16:00 | Endpräsentation in Schweinfurt |
 ---
 
-| Nr. | Datum | Status / Anmerkung |
-| :--- | :--- | :--- |
-| 13 | **13.01.2027** | Bugfixing / Implementierung Finaler Daten |
-| 14 | **20.01.2027** | Endpräsentation |
-
-
----
 
 ## Prüfungs- und Bewertungskriterien
 
@@ -764,6 +759,7 @@ https://vr-lab.atlassian.net/wiki/spaces/PG/pages/3016785921/Tiefsee-2026-27
 Jeder Kursteilnehmende hat ein Protokoll über die eigene Arbeitsleistung zu erstellen. Neben den tatsächlich erstellten Artefakten
 fließen die protokollierten Leistungen in die Benotung ein.
 Im Confluence-System ist eine Seitenstruktur vorhanden, die für das Protokoll genutzt werden kann.
+![bg right:40%](img/confluence.jpg)
 
 ---
 ### Endpräsentationen
@@ -783,6 +779,7 @@ Das Referat ist als pdf abzugeben und geht in die Bewertung ein.
 - Qualität der Endpräsentation
 
 ---
+<!-- _class: structural -->
 ### Abgabeleistungen
 - Alle erstellten Artefakte / Assets
 - Projekttagebuch in Confluence und als pdf-Export
@@ -809,7 +806,7 @@ Aufgaben:
 - Entwicklung und Koordination der wissenschaftlichen Story
 - Moderation des gesamten Projektverlaufs
 - Vermittlung zwischen den Teams und Sicherstellung der Kommunikation und Kooperation
-
+![bg right:40%](img/stefan.jpg)
 ---
 
 Kompetenzen:
@@ -817,7 +814,7 @@ Kompetenzen:
 - Erstellen von texturierten 3D-Modellen
 - Erstellen von Animationen
 - Look & Feel als Taucher
-
+![bg right:40%](img/taucher.jpg)
 ---
 
 **Florian Schuster**
@@ -902,14 +899,20 @@ Kompetenzen:
 - Im Zweifelsfall entscheidet die Projektleitung über die Team-Zugehörigkeit.
 
 ---
-
+<!-- _class: structural -->
 ## Team-Übersicht
 **Team 1** - Leitung und Orga (max. 2 Pax)
+
 **Team 2** - Physischer Bau (max 2 Pax)
+
 **Team 3** - Hardware-Interaktion & Elektronik (max 2 Pax)
+
 **Team 4** - UI/UX & Sounddesign (max. 2 Pax)
+
 **Team 5** - Engine-Programmierung (max. 1 Pax)
+
 **Team 6** - Level Design (Min. 2 Pax, max. 4 Pax)
+
 **Team 7** - VFX (Min. 2 Pax, max. 4 Pax)
 
 ---
@@ -924,7 +927,7 @@ Aufgaben:
 - Kommunikation nach außen zu AWI und thws
 - Kommunikation innerhalb der Teams
 - Dokumentationen in Confluence
-
+![bg right:40%](img/team-leitung.jpg)
 ---
 
 - Pflege der Gesamtdokumentation Aufforderung zu Einzeldokumentationen
@@ -945,6 +948,8 @@ Dieses Team ist für die haptische Ebene in der CAVE zuständig. Sie bauen das r
 Aufgaben:
 - Mock-up Konstruktion: Entwurf und Bau des eiförmigen, engen "Raums im Raum" aus dunklen Holzlatten ("Eigenbau"-Ästhetik).
 - Ergonomie & Interieur: Fertigung und Montage der zwei harten, unbequemen Sitze im Inneren des Bootes.
+![bg right:40%](img/team-bau.jpg)
+
 ---
 
 - Einstieg: Konstruktion der zwei stabilen physischen Stufen zum Überwinden der Einstiegskante.
@@ -958,8 +963,10 @@ max. 2 Personen aus FKV & FIW
 Dieses Team schlägt die Brücke zwischen der physischen Kiste und der virtuellen Engine (z.B. Unreal Engine, Arduino).
 
 Aufgaben:
-- Feedback-Ausgabe Sauerstoff-, Energie- Überwachung, Meldung Kommunikation mit Boot
+- Feedback-Ausgabe Sauerstoff-, Energie- Überwachung,
+ Meldung Kommunikation mit Boot
 - Regler-Logik: Integration des Schubreglers zum analogen physischen Dimmen der Außenlichter in Unreal.
+![bg right:40%](img/team-elektronik.jpg)
 
 ---
 
@@ -977,8 +984,11 @@ Dieses Team bespielt das physische Display im Boot und sorgt für die akustische
 Aufgaben:
 
 - Missions-Display (UI):
-Design der Sci-Fi-Unterwasserkarte (2D-Grafiken für die Zielregionen: Manganknollen, Whalefall, Eisfischnester, Schwarze Raucher).
-- Erstellung des "No Signal / Rauschen"-Zustands zu Beginn der Fahrt.
+Design der Sci-Fi-Unterwasserkarte (2D-Grafiken für die Zielregionen: Manganknollen, Whalefall, Eisfischnester,
+Schwarze Raucher).
+- Erstellung des "No Signal / Rauschen"-Zustands
+zu Beginn der Fahrt.
+![bg right:40%](img/team-ui.jpg)
 
 ---
 
@@ -999,6 +1009,7 @@ Das technische Rückgrat der virtuellen Welt. Sie verwalten die Physik, das CAVE
 Aufgaben:
 - U-Boot-Physik & Logik: Implementierung einer sehr trägen, massereichen Fahrzeug-Physik.
 - Verknüpfung der Arduino- und USB-Inputs (Joystick, Throttle, Lichtschalter, Dimmer) mit den virtuellen Funktionen im Level.
+![bg right:40%](img/team-programmierung.jpg)
 
 ---
 
@@ -1027,6 +1038,7 @@ Aufbau des tristen, schlammigen Meeresbodens (Displacement Meshes) mit dem Über
 - Eisfischnester
 - Manganknollenfeld Must have
 - Schwarze Raucher Must have
+![bg right:40%](img/team-design.jpg)
 
 ---
 
@@ -1050,6 +1062,7 @@ Dieses Team macht die Welt durch Shader, Effekte und Lebewesen lebendig und visu
 
 Skybox & Beleuchtung:
 - Erstellung der 360°-Oberflächen-Skybox (Sonne, unendlicher Horizont) inklusive Blendeffekt (Lens Flare / Bloom) beim Start.
+![bg right:40%](img/team-vfx.jpg)
 
 ---
 
