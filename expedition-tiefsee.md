@@ -88,7 +88,7 @@ Hier kommt die Story Film / Audio sonst was rein
 
 > Die Liebe!
 
-> Lasst uns also den Menschen die Liebe zur Tiefsee einpflanzen, damit eine tiefe Liebe zu dieser faszinierenden Welt entseht.
+> Lasst uns also den Menschen die Liebe zur Tiefsee einpflanzen, damit eine tiefe Liebe zu dieser faszinierenden Welt entsteht.
 
 ![bg right:40%](img/qualle.jpg)
 
@@ -1104,6 +1104,7 @@ Röntgenring Raum D.4.01 / D.4.02 installiert
 - Gimp
 - Unreal Engine 5.8
 - Arduino IDE
+![bg right:40%](img/software.jpg)
 
 ---
 
@@ -1112,12 +1113,14 @@ Röntgenring Raum D.4.01 / D.4.02 installiert
 - Dokumentation ausschließlich über Confluence:
 https://vr-lab.atlassian.net/wiki/spaces/PG/pages/3016785921/Tiefsee-2026-27
 - Versionsverwaltung via GitLab https://git.fiw.fhws.de/
-Leeres Repository: https://git.fiw.fhws.de/sauers/tiefsee-2026-27
+Leeres Repository:
+https://git.fiw.fhws.de/sauers/tiefsee-2026-27
 - Versenden großer Datenmengen:
 https://gigamove.rwth-aachen.de/de
 - Versenden mittlerer Datenmengen / Archivierung:
 https://cloud.thws.de/
 
+![bg right:40%](img/atlassian.jpg)
 
 ---
 
@@ -1132,12 +1135,14 @@ https://vr-lab.atlassian.net/wiki/spaces/PG/pages/3035824129/Assets+2025-26
 
 Download der Assets:
 https://cloud.thws.de/s/52m4YAfWBSETkP9
+![bg right:40%](img/assets2025.jpg)
 
 ---
 <!-- _class: structural-->
 # Inspirationen
 
 Bilden Sie sich im Laufe des Semsters aus folgenden Unterlagen, Videos, Weblinks Bilder und Grafiken, die Ihnen zur inhaltichen und visuellen Gestaltung Ihres Projekts Inspirationen bieten können
+![bg](img/inspirationen.jpg)
 
 ---
 ## Bücher
@@ -1158,9 +1163,10 @@ Von Claire Nouvian
 - Wissenschaftsjournalistin
 - Spezialisierung auf die Tiefsee
 - Zusammenarbeit mit MBARI
--
+
 Mit Arte Produktion des Filmes „Expedition in die Tiefsee“
 Leihgabe als Buch verfügbar
+![bg right:40%](img/thedeep.jpg)
 
 ---
 ## Filme
@@ -1169,10 +1175,11 @@ Leihgabe als Buch verfügbar
 Von Alexander Gerst auf Expedition
 - Astronaut und Geophysiker
 - Spezialisierung auf die Tiefsee
--
+
 Tauchfahrt auf 1000 m Tiefe mit Antje Boetius
 Link zum Film:
 https://cloud.thws.de/s/BXn4Sobnw6gLAXB
+![bg right:40%](img/alexandergerst.jpg)
 
 ---
 ### Schwarze Raucher: Erzfabriken der Tiefsee
