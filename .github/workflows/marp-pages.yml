@@ -18,26 +18,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Prepare build directory
+      - name: Prepare public directory
         run: |
           mkdir -p public
-          cp -r img public/
-          cp -r themes public/
+          cp -r img public/ || true
+          cp -r themes public/ || true
           if [ -d data ]; then cp -r data public/; fi
           if [ -d exkursion ]; then cp -r exkursion public/; fi
+          if [ -f expedition-tiefsee.pdf ]; then cp expedition-tiefsee.pdf public/; fi
 
-      - name: Build HTML & PDF with Marp CLI
+      - name: Build HTML with Marp CLI
         run: |
-          npx @marp-team/marp-cli@latest expedition-tiefsee.md --theme-set themes/ --html --allow-local-files -o public/index.html
-          npx @marp-team/marp-cli@latest expedition-tiefsee.md --theme-set themes/ --pdf --allow-local-files -o public/expedition-tiefsee.pdf
+          npx --yes @marp-team/marp-cli expedition-tiefsee.md --theme-set themes/ --html --allow-local-files -o public/index.html
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
