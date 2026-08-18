@@ -29,15 +29,18 @@ jobs:
       - name: Prepare public directory
         run: |
           mkdir -p public
+          touch public/.nojekyll
           cp -r img public/ || true
           cp -r themes public/ || true
           if [ -d data ]; then cp -r data public/; fi
           if [ -d exkursion ]; then cp -r exkursion public/; fi
           if [ -f expedition-tiefsee.pdf ]; then cp expedition-tiefsee.pdf public/; fi
+          if [ -f expedition-tiefsee.html ]; then cp expedition-tiefsee.html public/; fi
 
       - name: Build HTML with Marp CLI
         run: |
           npx --yes @marp-team/marp-cli expedition-tiefsee.md --theme-set themes/ --html --allow-local-files -o public/index.html
+          cp public/index.html public/expedition-tiefsee.html
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
