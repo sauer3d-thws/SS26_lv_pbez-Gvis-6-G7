@@ -2,7 +2,7 @@
 marp: true
 theme: thws-sts
 paginate: true
-header: '**Expedition Tiefsee** <br> FOLStefan Sauer'
+header: '**Expedition Tiefsee** <br> FOL Stefan Sauer'
 math: mathjax
 ---
 
@@ -78,6 +78,9 @@ Hier kommt die Story Film / Audio sonst was rein
   - [Artikel](#artikel)
 
 ---
+<!-- _class: kapitelende-->
+
+---
 <!-- _class: structural -->
 # Projektübersicht & Rahmendaten
 > Was bewegt uns, unsere Erde zu schützen, wenn das noch nicht einmal der eigene Selbsterhaltungstrieb vermag?
@@ -97,7 +100,7 @@ Hier kommt die Story Film / Audio sonst was rein
 
 ## Vision & Zielsetzung
 
-<i>"Wir wollen ein einzigartiges immersives Erlebnis schaffen, bei dem die Besuchenden die intensive Erfahrung machen, in einem Tauchboot  auf dem Grund der Tiefsee zu sein."</i>
+<i>"Wir wollen ein einzigartiges immersives Erlebnis schaffen, bei dem die Besuchenden die intensive Erfahrung machen, in einem Tauchboot auf dem Grund der Tiefsee zu sein."</i>
 
 ![bg](img/whalefall.jpg)
 
@@ -106,18 +109,21 @@ Hier kommt die Story Film / Audio sonst was rein
 ![bg](img/67381aa2-1a22-4ed6-9632-08cdcbeb53b3.jpg)
 
 ---
-
+<!-- _class: structural-->
 Die Besuchenden sollen: 
-- fasziniert werden von der Schönheit der Tiefsee
-- die Verletzlichkeit des Ökosystems verstehen
-- motiviert werden, sich für den Schutz der Tiefsee einzusetzen
+> ... fasziniert werden von der Schönheit der Tiefsee
+
+> ... die Verletzlichkeit des Ökosystems verstehen
+
+> ... motiviert werden, sich für den Schutz der Tiefsee einzusetzen
 ![bg right:40%](img/anemone.jpg)
+
 ---
 <!-- _class: text-80 structural-->
 ## Die Aufgabenstellung
 
 Entwickeln und konzeptionieren Sie in Teamarbeit eine **Mixed-Reality**-Anwendung in **Unreal 5.8**, die den Betrachter auf die Schönheit der weitgehend unbekannten Unterwasserwelt aufmerksam macht. Zielplattform der Anwendung ist die **CAVE** im **MAVEL-Lab** der THWS in Schweinfurt. 
-Vermitteln Sie das Gefühl der **Dringlichkeit** dieses unersetzliche Ökosystem zu behüten und zu erforschen, ohne es zu beeinträchtigen.
+Vermitteln Sie das Gefühl der **Dringlichkeit**, dieses unersetzliche Ökosystem zu behüten und zu erforschen, ohne es zu beeinträchtigen.
 Befassen Sie sich **intensiv** mit der **Story** und weiterführend mit dem **Thema Tiefsee**.
 Ordnen Sie sich dann einem der sieben Teams zu und besprechen Sie im Team die zu bearbeitenden Teilaufgaben.
 Erlernen Sie die für Sie erforderlichen Software-Komponenten und Werkzeuge.
@@ -125,13 +131,17 @@ Erlernen Sie die für Sie erforderlichen Software-Komponenten und Werkzeuge.
 ---
 <!-- _class: text-80 structural-->
 
-Am Ende der Veranstaltung erfolgt eine mediale Live-Präsentation durch die Verfasser*innen, sowie eine Ausstellung der Ergebnisse. Abgabe als gemeinsames DIN A1 Hochformat Plakat (gedruckt) und als individuelle Präsentation der eigenen Arbeitsergebnisse.
-Mit der Teilnahme am Kurs stimmen Sie einer möglichen Veröffentlichung Ihrer Arbeit durch die Hochschule und das AWI zu. Die im Rahmen der Arbeit entstandenen Werke verbleiben in Ihrem Urheberrecht, die zeitlich und räumlich unbeschränkten Nutzungsrecht zu Werbe-und Veröffentlichungszwecken und Weiterverwendung erhält die THWS, sowie das AWI.
+Am Ende der Veranstaltung erfolgt eine mediale Live-Präsentation durch die Verfasser*innen sowie eine Ausstellung der Ergebnisse. Abgabe als gemeinsames DIN A1 Hochformat Plakat (gedruckt) und als individuelle Präsentation der eigenen Arbeitsergebnisse.
+Mit der Teilnahme am Kurs stimmen Sie einer möglichen Veröffentlichung Ihrer Arbeit durch die Hochschule und das AWI zu. Die im Rahmen der Arbeit entstandenen Werke verbleiben in Ihrem Urheberrecht, die zeitlich und räumlich unbeschränkten Nutzungsrechte zu Werbe- und Veröffentlichungszwecken und Weiterverwendung erhält die THWS, sowie das AWI.
 
 ---
+<!-- _class: kapitelende-->
+
+---
+
 ## Projektpartner
 
-DAs Projekt entsteht in einer Kooperation aus:
+Das Projekt entsteht in einer Kooperation aus:
 
 **Technische Hochschule Würzburg-Schweinfurt**
 - Fakultät FKV Kunststofftechnik und Vermessung,
@@ -139,7 +149,7 @@ Studiengang Geovisualisierung
 - Fakultät FIW Informatik und Wirtschaftsinformatik
 
 **MAVEL-Lab der THWS**
-- Fakultät Wirtschaftsingenieurwesen)
+- Fakultät Wirtschaftsingenieurwesen
 
 **Alfred-Wegener-Institut**
 - Helmholtz-Zentrum für
@@ -150,16 +160,18 @@ Polar- und Meeresforschung (AWI)
 ---
 ### thws
 
-Interdisziplinäres Projekt innerhalb der THWS unter Ein- beziehung von Studierenden unterschiedlicher Fakultäten.
+Interdisziplinäres Projekt innerhalb der THWS unter
+Einbeziehung von Studierenden unterschiedlicher Fakultäten.
 
 #### FKV Studiengang [Geovisualisierung](https://geo.thws.de)
 - "Projektbezogene Geovisualisierung" als Modul
 des siebten Semesters
-- Schwerpunkte: 3D Visualsierung, Animation, VR
+- Schwerpunkte: 3D Visualisierung, Animation, VR
 
 #### FIW
 - Wahlpflichtmodul
-- Studiengänge: Informatik, Wirtschaftsinformatik, Informationssicherheit, Digitale Gesellschaft
+- Studiengänge: Informatik, Wirtschaftsinformatik,
+Informationssicherheit, Digitale Gesellschaft
 ![bg right:40%](img/geo-thws-de.jpg)
 
 ---
@@ -174,20 +186,24 @@ https://mavel.rocks
 
 ---
 
-**Lab Description**
-- Founded: 2022
-- MAVEL - 
-Mixed Augmented Virtual Experience Learning Lab
-- Location: THWS-Ledward Campus-Room 20.E.22
-- Mission: Making things tangible that are not easily accessible and/or threaten life
-and limb. Inspire people to use XR in their domain.
-- Vision: The competence center for multisensory
-applications of XR
-- Target Audience: Students, lndustry, Research
-![bg right:40%](img/mavel-lab-thws-cave-3d-scan-3d-brille-stefan-sauer.jpg)
+**Beschreibung des Labors**
+**Gründung**: 2022
+**MAVEL** – Mixed Augmented Virtual Experience Learning Lab
+**Standort**: THWS, Ledward Campus, Raum 20.E.22
+**Mission**:
+Dinge und Erfahrungen greifbar und erlebbar machen, die sonst nur schwer zugänglich sind und/oder eine Gefahr für Leib und Leben darstellen. Menschen dazu inspirieren, Extended Reality (XR) in ihrem jeweiligen Fach- und Anwendungsbereich einzusetzen.
+**Vision**:
+Kompetenzzentrum für multisensorische Anwendungen von Extended Reality (XR).
+**Zielgruppen**:
+Studierende, Industrie und Forschung.
+
+
+![bg right:40%](img/fotos-mavel/Mavel-Lab.jpg)
+
 ---
 **Partnerships and Collaborations**
-- Internal: IDIS, IDEE, Plastics Engineering and Surveying, Architecture and Civil Engineering, Business School, CERI
+- Internal: IDIS, IDEE, Plastics Engineering and Surveying,
+Architecture and Civil Engineering, Business School, CERI
 - Academic: Innovation Management, Design Thinking, VR Deep Sea Exploration (FWPM)
 - Industry: Koenig & Bauer, Schaeffler, Bosch Rexroth, Hilti, Fresenius, Würth
 - Government Agencies: Bayerisches LKA, Museum für Franken, Feuerwehrschule
@@ -266,7 +282,7 @@ Die CAVE (Cave Automatic Virtual Environment) des MAVEL-Labs an der THWS in Schw
 - Raumfüllendes VR-System mit vierseitiger Projektion
 - Größte Cave Europas (10m x  5m x 5m)
 - immersive virtuelle Realität, mit leichten Shutterbrillen
-- Kombination von realen und virtuellen Objekten / phyischen Mockups
+- Kombination von realen und virtuellen Objekten / physischen Mockups
 - Mixed Augmented Virtual Experience
 ![bg right:40%](img/mavel-lab-thws-cave-stefan-sauer.jpg)
 
@@ -274,7 +290,7 @@ Die CAVE (Cave Automatic Virtual Environment) des MAVEL-Labs an der THWS in Schw
 ## Zielgruppen & Interdisziplinäre Zusammensetzung
 
 ### Ziele und Zielgruppe der thws
-- Kollaboration unterschiedlicher Charactere und Kompetenzen
+- Kollaboration unterschiedlicher Charaktere und Kompetenzen
 - Simulierung realer Projektbedingungen
 - Projekt mit starker Außen- und Innenwirkung
 - Breite Zielgruppe, von Studierenden, über Lehrende, bis Studieninteressierte
@@ -296,7 +312,7 @@ Die CAVE (Cave Automatic Virtual Environment) des MAVEL-Labs an der THWS in Schw
 ### Ziele und Zielgruppe des AWI
 Gesellschaftliche Relevanz der Ozeane verdeutlichen: 
 - Schutz der Ozeane
-- Verständnis für die Ozeane (ca 25% sind kartiert, <1% sind visuell bekannt)
+- Verständnis für die Ozeane (ca. 25% sind kartiert, <1% sind visuell bekannt)
 - Zu wenig Wissen für Verständnis von Veränderungen und deren Folgen
 - Viele unbekannte Lebensräume, Organismen und Prozesse
 - aber vielleicht auch Antworten auf dringende Fragen
@@ -304,6 +320,10 @@ Gesellschaftliche Relevanz der Ozeane verdeutlichen:
 ![bg right:40%](img/awi-forschung.jpg)
 
 ---
+<!-- _class: kapitelende-->
+
+---
+
 <!--_class: structural-->
 # Die Story & das didaktische Konzept
 
@@ -318,12 +338,15 @@ Gesellschaftliche Relevanz der Ozeane verdeutlichen:
 - Beginnt bereits bei der Ankunft in Schweinfurt
 - Vor dem Erlebnis erfolgt eine Briefing-Phase
 - Inszenierung erhöht die Anspannung
-- Tauchfahrt vom gleißenden Sonnenschein in die absolute Dunkelheit der Tiefsee
+- Tauchfahrt vom gleißenden Sonnenschein in die
+absolute Dunkelheit der Tiefsee
 - Interaktion mit dem Expeditionsleiter (digitaler Frank)
 - Enge, Kälte, Stille und fremde Geräusche als Begleiter
 - Am Tiefseegrund Kontrast zwischen Schönheit und Zerstörung
-- Zurück in die Realität nach dem Auftauchen, Rollos werden geöffnet
-- Expeditionsziele werden vorgegeben und während der Tauchfahrt mit Kommandobrücke der Polarstern besprochen!
+- Zurück in die Realität nach dem Auftauchen,
+Rollos werden geöffnet
+- Expeditionsziele werden vorgegeben und während der
+Tauchfahrt mit Kommandobrücke der Polarstern besprochen!
 
 ![bg](img/drama.jpg)
 
@@ -352,8 +375,10 @@ Ein möglicher Spielort für unsere Anwendung
 ---
 ### Tiefsee Bergbau
 - Hohe Vorkommen von Manganknollen in der CCZ
-- Bundesrepublik Deutschland erwarb 2006 eine 15 Jahre gültige Erkundungslizenz
-- AWI, Geomar, Marumerforschen Auswirkungen des Tiefsee-Bergbaus
+- Bundesrepublik Deutschland erwarb 2006 eine 15 Jahre
+ gültige Erkundungslizenz
+- AWI, Geomar, Marum erforschen
+Auswirkungen des Tiefsee-Bergbaus
 
 https://de.wikipedia.org/wiki/Clarion-Clipperton-Zone
 
@@ -375,10 +400,14 @@ https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 ---
 ### Ökosystem des CCZ
 
-- Seeberge(Seamounts) als einzigartige Artengemeinschaften
-- Seeberge mit Schwamm-und Korallengärten → Lebensraum für Krustentiere, Muscheln, Seesterne, viele bodenbewohnende Organismen.
-- Schwarze Raucher (Hydrothermalquellen) als dicht besiedelte Lebensräume der Tiefsee
-- Chemosynthese (Bakterien wandeln Schwefelwasserstoffe in Energie)
+- Seeberge (Seamounts) als einzigartige Artengemeinschaften
+- Seeberge mit Schwamm- und Korallengärten
+→ Lebensraum für Krustentiere, Muscheln, Seesterne,
+viele bodenbewohnende Organismen.
+- Schwarze Raucher (Hydrothermalquellen) als dicht
+besiedelte Lebensräume der Tiefsee
+- Chemosynthese
+(Bakterien wandeln Schwefelwasserstoffe in Energie)
 
 https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 ![bg right:40%](img/bodenbewohner.jpg)
@@ -400,9 +429,13 @@ https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 ---
 ### Daten des Gebiets
 - Download unter https://www.gebco.net/
-- Freie Daten vefügbar
+- Freie Daten verfügbar
 - Z.B.: https://www.gebco.net/data-products/gridded-bathymetry-data
 - Verwendung in ArcGIS möglich
+
+---
+
+<!-- _class: kapitelende-->
 
 ---
 <!-- _class: structural -->
@@ -418,19 +451,30 @@ https://de.wikipedia.org/wiki/Deutsches_Ressourcen-Forschungsgebiet_im_Pazifik
 ![bg](img/manganknollenfeld.jpg)
 
 ---
-### Manganknollenfeld
+### Schlüsselstation Manganknollenfeld
 
-**Die Clarion-Clipperton-Zone (CCZ):** Ein riesiges, ca. 4,5 Millionen Quadratkilometer großes Tiefseegebiet im Zentralpazifik zwischen Hawaii und Mexiko.
+**Die Clarion-Clipperton-Zone (CCZ):**
+Ein riesiges, ca. 4,5 Millionen Quadratkilometer
+großes Tiefseegebiet im Zentralpazifik zwischen
+Hawaii und Mexiko.
+![bg right:40%](img/ccz2.jpg)
 
 ---
 
-**Ressourcen (Manganknollen):** Kartoffelgroße Knollen in 4.000 bis 5.000 Metern Tiefe, die neben Mangan wertvolle Metalle wie Kobalt, Nickel, Kupfer und Seltene Erden enthalten (wichtig für die Energiewende und Batterietechnik).
+**Ressourcen (Manganknollen):**
+Kartoffelgroße Knollen in 4.000 bis 5.000 Metern Tiefe,
+die neben Mangan wertvolle Metalle wie Kobalt, Nickel,
+Kupfer und Seltene Erden enthalten (wichtig für die
+Energiewende und Batterietechnik).
 ![bg right:40%](img/manganknolle.jpg)
 
 ---
 
 **Geplante Abbautechnologie:**
-Einsatz schwerer, ferngesteuerter Unterwasser-Raupenfahrzeuge (Kollektoren), die den Meeresboden umpflügen, die Knollen einsammeln und über ein Rohrsystem zu einem Schiff an der Oberfläche pumpen.
+Einsatz schwerer, ferngesteuerter Unterwasser-
+Raupenfahrzeuge (Kollektoren), die den Meeresboden
+umpflügen, die Knollen einsammeln und über ein
+Rohrsystem zu einem Schiff an der Oberfläche pumpen.
 ![bg right:40%](img/rover-und-greifer_geomar.jpg)
 
 ---
@@ -454,7 +498,7 @@ Während einige Staaten und Unternehmen auf einen baldigen Start des industriell
 
 ---
 <!-- _class: structural -->
-### Whalefall
+### Schlüsselstation Whalefall
 **Was ist ein Whalefall?**
 Wenn der Kadaver eines großen Wals (z.B. Blau- oder Pottwal) auf den Meeresboden der Tiefsee sinkt, spricht man von einem "Whalefall". Er bringt schlagartig gigantische Mengen an Nährstoffen in einen ansonsten sehr nahrungsarmen, dunklen Lebensraum.
 
@@ -484,7 +528,7 @@ Wissenschaftler vermuten, dass Whalefalls als evolutionäre Trittsteine fungiere
 
 ---
 <!-- _class: structural -->
-### Eisfischnester
+### Schlüsselstation Eisfischnester
 **Sensationelle Entdeckung (AWI-Forschung):**
 Im Jahr 2021 entdeckten Forscher des Alfred-Wegener-Instituts (AWI) mit dem Forschungsschiff *Polarstern* im antarktischen Weddellmeer die weltweit größte bekannte Fischbrutkolonie.
 ![bg](img/eisfische.jpg)
@@ -515,7 +559,7 @@ Diese gigantische Ansammlung von Biomasse (geschätzte 60.000 Tonnen) bildet ein
 
 ---
 <!-- _class: structural -->
-### Schwarze Raucher
+### Schlüsselstation Schwarze Raucher
 **Was sind Schwarze Raucher?**
 Schwarze Raucher sind hydrothermale Quellen, vulkanische Austritte am Meeresboden, meist in Tiefsee-Grabenbruchzonen (z.B. am Mittelatlantischen Rücken in 2.000 bis 3.000 Metern Tiefe).
 ![bg](img/Amphipodswarm.jpg)
@@ -564,6 +608,9 @@ Schwarze Raucher sind marine "Oasen" in der riesigen Tiefsee-Wüste. Sie zeigen,
 ![bg right:40%](img/extraterrestrisch.jpg)
 
 ---
+<!-- _class: kapitelende-->
+
+---
 <!-- _class: structural -->
 # Gamification & Live-Feed-Gedanke
 
@@ -589,6 +636,11 @@ zur Crew entstehen
 - es werden regelmäßig Updates zu den
 Zuschauerzahlen gegeben
 ![bg right:40%](img/aus-dem-tauchboot.jpg)
+
+---
+
+<!-- _class: kapitelende-->
+
 ---
 <!-- _class: structural-->
 
@@ -599,14 +651,14 @@ Zuschauerzahlen gegeben
 ## Ziele der Exkursion
 - Kennenlernen des AWI und seiner Arbeit im Bereich der Tiefseeforschung
 - Dr. Frank Wenzhöfer, seine Ziele und Projekte
-- Erwerb von Verständis und Fachwissen in der Meeresforschung
+- Erwerb von Verständnis und Fachwissen in der Meeresforschung
 - Liebe zum Meer entwickeln
 - Teambildung
 - Commitment auf ein gemeinsames Ziel
 - Kennenlernen der Hafenstadt Bremerhaven
 - Schnuppern von Seemannsluft, Fischerei-
 und Hafenatmosphäre
-- Identifikation und Besprechunggemeinsamer Forschungsanträge
+- Identifikation und Besprechung gemeinsamer Forschungsanträge
 
 ![bg right:40%](img/hafenathmosphaere.jpg)
 
@@ -633,12 +685,12 @@ und Hafenatmosphäre
 - Wir werden in Bremerhaven auch viel zu Fuß unterwegs sein.
 Achten Sie auf leichtes Gepäck, gutes Schuhwerk und
 wetterfeste Kleidung.
-- GGf. Gummistiefel für Wattwanderung (können auch vor Ort geliehen werden)
+- Ggf. Gummistiefel für Wattwanderung (können auch vor Ort geliehen werden)
 - Es gilt Selbstversorgung während der Exkursion
 - Die Fahrt erfolgt mit drei thws-Bussen
 - Fahrtkosten, Übernachtungskosten und Museumseintritte
 werden übernommen
-- von den Studierenden ist vorab ein EIgenanteil zu leisten
+- von den Studierenden ist vorab ein Eigenanteil zu leisten
 ![bg right:40%](img/zu-fuss.jpg)
 
 ---
@@ -654,7 +706,7 @@ https://maps.app.goo.gl/rbNgqmpyVJQjgrxQA
 
 ---
 - Ab ca. 15:00 Uhr Besuch des
-**Deutschen Schifffahrtmuseums**
+**Deutschen Schifffahrtsmuseums**
 https://www.dsm.museum/
 https://maps.app.goo.gl/4C6eiC8w8eoTa8MMA
 - Zurück zum Hotel
@@ -703,7 +755,7 @@ Treffpunkt nach Absprache
 https://www.klimahaus-bremerhaven.de/
 https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 - Abreise ca. 13:00 Uhr
-- Ankunft in Würzburg geegen Abend
+- Ankunft in Würzburg gegen Abend
 ![bg right:40%](img/klimahaus.jpg)
 
 ---
@@ -713,11 +765,15 @@ https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 - Commitment auf eine gemeinsame Story
 - Verständnis für die Einzelaufgaben entwickeln
 - Kennenlernen der Betreuer und Mitarbeiter des MAVEL-Lab
-- Sichtung der bereits erstelleten Assets
-- gezielte Nachfragen an Dr. Frank Wenzhöfer, Notizen anfertigen und zusammentragen
+- Sichtung der bereits erstellten Assets
+- Gezielte Nachfragen an Dr. Frank Wenzhöfer, Notizen anfertigen und zusammentragen
 
 ![bg left:40%](img/letzte-kneipe-vor-new-york-innen.jpg)
 
+
+---
+
+<!-- _class: kapitelende-->
 ---
 <!-- _class: structural -->
 # Organisation & Ablauf
@@ -824,7 +880,10 @@ Aufgaben:
 - Ansprechpartner für koordinatorische Fragen
 - Exkursionsorganisator
 - Betreuung des U-Boot-Baus
-- Vermittlung zwischen den Teams und Sicherstellung der Kommunikation und Kooperation
+- Vermittlung zwischen den Teams
+und Sicherstellung der Kommunikation und Kooperation
+
+![bg right:40%](img/fotos-mavel/Florian-Schuster.jpg)
 
 ---
 
@@ -845,6 +904,8 @@ Aufgaben:
 - Programmierung und Shading
 - Unterstützung bei der Story
 
+![bg right:40%](img/fotos-mavel/Dominik-Fritsch.jpg)
+
 ---
 
 Kompetenzen:
@@ -853,15 +914,15 @@ Kompetenzen:
 - Game-Design
 - Technische Unterstützung bei Problemen mit den Tools der Teams
 - Organisation und Durchführung von Workshops
-- Erfahrungen in der Lehre (Sofwaretraining)
+- Erfahrungen in der Lehre (Softwaretraining)
 
 ---
 
 **Chris Haselhoff**
 
 Aufgaben:
-- Physicher Bau des U-Bootes
-- Material- und Technik Beschaffung
+- Physischer Bau des U-Bootes
+- Material- und Technik-Beschaffung
 - Koordination des U-Boot-Teams
 
 Kompetenzen:
@@ -884,9 +945,13 @@ Aufgaben:
 Kompetenzen:
 - Projektmanagement
 - Teambildung
-- Konnfliktlösung
+- Konfliktlösung
 - Inspiration
+![bg right:40%](img/fotos-mavel/Uwe-Sponholz.jpg)
 
+---
+
+<!-- _class: kapitelende-->
 ---
 
 # Interdisziplinäre Teamstruktur & Aufgabenverteilung
@@ -903,17 +968,17 @@ Kompetenzen:
 ## Team-Übersicht
 **Team 1** - Leitung und Orga (max. 2 Pax)
 
-**Team 2** - Physischer Bau (max 2 Pax)
+**Team 2** - Physischer Bau (max. 2 Pax)
 
-**Team 3** - Hardware-Interaktion & Elektronik (max 2 Pax)
+**Team 3** - Hardware-Interaktion & Elektronik (max. 2 Pax)
 
 **Team 4** - UI/UX & Sounddesign (max. 2 Pax)
 
 **Team 5** - Engine-Programmierung (max. 1 Pax)
 
-**Team 6** - Level Design (Min. 2 Pax, max. 4 Pax)
+**Team 6** - Level Design (min. 2 Pax, max. 4 Pax)
 
-**Team 7** - VFX (Min. 2 Pax, max. 4 Pax)
+**Team 7** - VFX (min. 2 Pax, max. 4 Pax)
 
 ---
 
@@ -930,7 +995,7 @@ Aufgaben:
 ![bg right:40%](img/team-leitung.jpg)
 ---
 
-- Pflege der Gesamtdokumentation Aufforderung zu Einzeldokumentationen
+- Pflege der Gesamtdokumentation, Aufforderung zu Einzeldokumentationen
 - Erstellen einer finalen Plakatpräsentation
 - Verteilung und Überwachung der Bearbeitung der Einzelaufgaben
 - Organisation wöchentlicher Standup-Meetings
@@ -963,7 +1028,7 @@ max. 2 Personen aus FKV & FIW
 Dieses Team schlägt die Brücke zwischen der physischen Kiste und der virtuellen Engine (z.B. Unreal Engine, Arduino).
 
 Aufgaben:
-- Feedback-Ausgabe Sauerstoff-, Energie- Überwachung,
+- Feedback-Ausgabe Sauerstoff-, Energie-Überwachung,
  Meldung Kommunikation mit Boot
 - Regler-Logik: Integration des Schubreglers zum analogen physischen Dimmen der Außenlichter in Unreal.
 ![bg right:40%](img/team-elektronik.jpg)
@@ -993,7 +1058,7 @@ zu Beginn der Fahrt.
 ---
 
 - Entwicklung der dynamischen Text- und Zahlenelemente (Tiefenanzeige bis 4053m, rasant steigender Zuschauer-Counter von 53.000 bis 453.000, "White House Live Feed"-Eilmeldung).
-- Sounddesign Oberfläche: Meeresrauschen, Wind/Brise, Möwengeschrei, Signalhorns...
+- Sounddesign Oberfläche: Meeresrauschen, Wind/Brise, Möwengeschrei, Signalhorn...
 - Sounddesign Tiefsee: Fahrgeräusche, Funksprüche der "Polarstern", Klacken beim Einschalten der Scheinwerfer
 - Walgesänge in der finalen Dunkelheit
 - uvm...
@@ -1029,16 +1094,17 @@ Aufgaben:
 
 Level-Design & Landschaft:
 Aufbau des tristen, schlammigen Meeresbodens (Displacement Meshes) mit dem Übergang in eine schroffere, felsige Basalt-Landschaft bei den Schwarzen Rauchern.
+![bg right:40%](img/team-design.jpg)
 
 ---
 
 - Oberfläche / Expeditionsboot
 - Begegnungen beim Ab-/ Auftauchen
-- Whalefall Must have
+- Whalefall Must-have
 - Eisfischnester
-- Manganknollenfeld Must have
-- Schwarze Raucher Must have
-![bg right:40%](img/team-design.jpg)
+- Manganknollenfeld Must-have
+- Schwarze Raucher Must-have
+
 
 ---
 
@@ -1057,7 +1123,7 @@ Aufbau des tristen, schlammigen Meeresbodens (Displacement Meshes) mit dem Über
 ---
 
 ### Team 7 - VFX
-(Min. 2 Personen,  max. 4 Personen aus FKV & FIW)
+(Min. 2 Personen, max. 4 Personen aus FKV & FIW)
 Dieses Team macht die Welt durch Shader, Effekte und Lebewesen lebendig und visuell packend.
 
 Skybox & Beleuchtung:
@@ -1069,7 +1135,7 @@ Skybox & Beleuchtung:
 Unterwasser-Atmosphäre (Shader):
 
 - Entwicklung des globalen Nebel-Shaders (Exponential Fog), der sich fließend von Cyan zu Tiefblau und schließlich zu absolutem Schwarz verfärbt.
-- Wasser-Splatters- und Schlieren-Shader für die Bereiche der CAVE-Wände, die hinter den physischen Bullaugen liegen.
+- Wasser-Splatter- und Schlieren-Shader für die Bereiche der CAVE-Wände, die hinter den physischen Bullaugen liegen.
 - Volumetrische Kegellichter für die virtuellen Scheinwerfer des Bootes (reagiert auf den Helligkeitswert des physischen Dimmers).
 
 ---
@@ -1080,6 +1146,10 @@ Partikeleffekte (VFX):
 - Dichte, dunkle Staub- und Sedimentwolken, die von den Abbaufahrzeugen aufgewirbelt werden.
 - Dichte, tiefschwarze Fluid-Rauchschwaden für die hydrothermalen Schlote (Schwarze Raucher).
 
+
+---
+
+<!-- _class: kapitelende-->
 
 ---
 <!-- _class: structural -->
@@ -1138,10 +1208,15 @@ https://cloud.thws.de/s/52m4YAfWBSETkP9
 ![bg right:40%](img/assets2025.jpg)
 
 ---
+
+<!-- _class: kapitelende-->
+
+---
+
 <!-- _class: structural-->
 # Inspirationen
 
-Bilden Sie sich im Laufe des Semsters aus folgenden Unterlagen, Videos, Weblinks Bilder und Grafiken, die Ihnen zur inhaltichen und visuellen Gestaltung Ihres Projekts Inspirationen bieten können
+Bilden Sie sich im Laufe des Semesters aus folgenden Unterlagen, Videos, Weblinks, Bilder und Grafiken, die Ihnen zur inhaltlichen und visuellen Gestaltung Ihres Projekts Inspirationen bieten können
 ![bg](img/inspirationen.jpg)
 
 ---
@@ -1193,7 +1268,7 @@ Link zum Film:
 https://www.geomar.de/entdecken/videos/videos-singleansicht/schwarze-raucher-erzfabriken-der-tiefsee-1
 
 ---
-### ExtremophileLeben an schwarzen Rauchern
+### Extremophile: Leben an schwarzen Rauchern
 
 Helmholtz
 Link zum Film:
@@ -1231,9 +1306,27 @@ https://cloud.thws.de/s/kNJ4CGSLJTX6kto
 ---
 ## Artikel
 Geomar:
-Factsheet MassivsulfideSchwarze Raucher –Erzfabriken der Tiefsee
+Factsheet Massivsulfide 
+- Schwarze Raucher
+- Erzfabriken der Tiefsee
+
 
 Die Zeit:
-Tiefsee-Expedition vor ArgentinienWie die Tiefsee Twitch eroberte
+Tiefsee-Expedition vor Argentinien - Wie die Tiefsee Twitch eroberte
 
 https://cloud.thws.de/s/LMnGsNDa93Nbka9
+
+---
+
+<!-- _class: kapitelende-->
+
+>Und jetzt?
+
+> Let`s Go...
+
+---
+<!-- _class: structural-->
+
+> Fragen?
+
+

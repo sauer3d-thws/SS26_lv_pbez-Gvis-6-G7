@@ -30,11 +30,11 @@
   /* Orange für Zitate */
   --page-number-color: #CDCDCD;
   /* Orange für Foliennummern */
-  --verytiny: 14px;
-  --tiny: 18px;
-  --small: 22px;
-  --default: 24px;
-  --large: 28px;
+  --verytiny: 12px;
+  --tiny: 16px;
+  --small: 20px;
+  --default: 22px;
+  --large: 26px;
 }
 
 body {
@@ -44,7 +44,7 @@ body {
 }
 
 header {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.2;
   text-align: left;
   color: #CDCDCD !important;
@@ -164,28 +164,28 @@ h4+strong {
 
 /*-- Überschriften --*/
 section h1 {
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 700;
   color: black;
   line-height: 1 !important;
 }
 
 section h2 {
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 500;
   color: var(--subheader-color);
   /* Schwarz */
 }
 
 section h3 {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 500;
   color: var(--header-color);
 }
 
 section h4 {
   font-size: var(--default);
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 500;
   color: #6d6d6d;
 }
@@ -273,7 +273,7 @@ section.large-text a {
 
 section.large-text h1,
 section.large-text h2 {
-  font-size: 46px !important;
+  font-size: 44px !important;
 }
 
 
@@ -291,7 +291,7 @@ ul,
 ol {
   font-family: "Inter", sans-serif;
   font-weight: 300;
-  font-size: 22px;
+  font-size: 20px;
   margin-left: -12px;
   word-wrap: break-word;
   /* Falls nötig, Text umbrechen */
@@ -331,7 +331,7 @@ ul li ul li:before {
   top: 2px;
   left: -2px;
   color: #FF6a00;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 /* -------------------- Images-------------------------------*/
@@ -390,7 +390,7 @@ section.titlepage {
 
 /* H1 Titel auf Titelseite */
 section.titlepage h1 {
-  font-size: 58px;
+  font-size: 56px;
   font-weight: 700;
   line-height: 1.1;
   color: var(--header-color);
@@ -399,7 +399,7 @@ section.titlepage h1 {
 
 /* H2 Untertitel auf Titelseite */
 section.titlepage h2 {
-  font-size: 40px;
+  font-size: 38px;
   font-weight: 300;
   color: white;
   line-height: 1.1;
@@ -463,7 +463,7 @@ section.structural ol li {
 
 section.structural h1 {
   color: #FF6a00;
-  font-size: 32px;
+  font-size: 30px;
 }
 
 section.structural h1 strong,
@@ -507,7 +507,7 @@ blockquote {
 
 blockquote p {
   font-weight: 700;
-  font-size: 32px;
+  font-size: 30px;
   line-height: 1.4;
   color: var(--quote-color);
   /* Orange */
@@ -760,7 +760,7 @@ section::after {
   right: 20px;
   padding: 20px;
   font-family: InterFont, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
   text-align: right;
   color: var(--page-number-color) !important;
@@ -786,7 +786,7 @@ footer {
 /* Styling des Links */
 footer a {
   font-family: "Inter", sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   /* Gleiche Größe wie Seitenzahl */
   font-weight: 300;
   color: var(--page-number-color);
@@ -821,4 +821,23 @@ section.text-80 ol,
 section.text-80 table,
 section.text-80 pre {
   width: 80%;
+}
+
+/* -------------------- CLASS: Kapitelende -------------------------------*/
+
+section.Kapitelende,
+section.kapitelende {
+  background-color: #000000 !important;
+  background: #000000 !important;
+}
+
+section.Kapitelende::before,
+section.kapitelende::before,
+section.Kapitelende::after,
+section.kapitelende::after,
+section.Kapitelende header,
+section.kapitelende header,
+section.Kapitelende footer,
+section.kapitelende footer {
+  display: none !important;
 }
