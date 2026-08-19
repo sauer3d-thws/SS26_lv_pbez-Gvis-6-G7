@@ -790,7 +790,7 @@ https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 | 04 | **28.10.2026** | 12:30-16:00 | Einführung in Unreal von Dominik Fritsch |
 | 05 | **04.11.2026** | 12:30-16:00 | Regulärer Termin |
 | 06 | **11.11.2026** | 12:30-16:00 | Regulärer Termin |
-| - | **18.11.2026** | ganztägig | *Buß- und Bettag — vorlesungsfrei* |
+| - | **18.11.2026** | 12:30-16:00 | Regulärer Termin |
 | 07 | **25.11.2026** | 12:30-16:00 | Regulärer Termin |
 ---
 <!-- _class: vielText -->
