@@ -790,20 +790,20 @@ https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
 | 04 | **28.10.2026** | 12:30-16:00 | Einführung in Unreal von Dominik Fritsch |
 | 05 | **04.11.2026** | 12:30-16:00 | Regulärer Termin |
 | 06 | **11.11.2026** | 12:30-16:00 | Regulärer Termin |
-| - | **18.11.2026** | 12:30-16:00 | Regulärer Termin |
-| 07 | **25.11.2026** | 12:30-16:00 | Regulärer Termin |
+| 07 | **18.11.2026** | 12:30-16:00 | Regulärer Termin |
+| 08 | **25.11.2026** | 12:30-16:00 | Regulärer Termin |
 ---
 <!-- _class: vielText -->
 | Nr. | Datum | Uhrzeit | Status / Anmerkung |
 | :--- | :--- | :--- | :--- |
-| 08 | **02.12.2026** | 13:30 - 16:00| Zwischenpräsentation in Schweinfurt |
-| 09 | **09.12.2026** | 12:30-16:00 | Regulärer Termin |
-| 10 | **16.12.2026** | 12:30-16:00 | Regulärer Termin |
-| 11 | **23.12.2026** | 12:30-16:00 | Regulärer Termin |
+| 09 | **02.12.2026** | 13:30 - 16:00| Zwischenpräsentation in Schweinfurt |
+| 10 | **09.12.2026** | 12:30-16:00 | Regulärer Termin |
+| 11 | **16.12.2026** | 12:30-16:00 | Regulärer Termin |
+| 12 | **23.12.2026** | 12:30-16:00 | Regulärer Termin |
 | — | *30.12.2026* | *Entfällt (Weihnachtspause)* |
 | — | *06.01.2027* | *Entfällt (Weihnachtspause)* |
-| 12 | **13.01.2027** | 12:30-16:00 | Bugfixing / Implementierung Finaler Daten |
-| 13 | **20.01.2027** | 13:30-16:00 | Endpräsentation in Schweinfurt |
+| 13 | **13.01.2027** | 12:30-16:00 | Bugfixing / Implementierung Finaler Daten |
+| 14 | **20.01.2027** | 13:30-16:00 | Endpräsentation in Schweinfurt |
 ---
 
 
