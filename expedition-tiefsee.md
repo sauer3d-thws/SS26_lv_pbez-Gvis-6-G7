@@ -22,8 +22,8 @@ math: mathjax
 # Auf der Jagd nach den schwarzen Rauchern.
 
 
+Lesung von Uwe Sponholz, Flowiran Schuster, Stefan Sauer, Dominik Fritsch und Chris Haselhoff
 
-Hier kommt die Story Film / Audio sonst was rein
 
 
 ---
@@ -931,6 +931,7 @@ Kompetenzen:
 - Umgang mit Werkzeugen
 - Beschaffung von Werkzeugen und Materialien
 
+![bg right:40%](img/Foto_Chris_Haselhoff.JPG)
 
 ---
 
