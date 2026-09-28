@@ -685,7 +685,6 @@ und Hafenatmosphäre
 - Wir werden in Bremerhaven auch viel zu Fuß unterwegs sein.
 Achten Sie auf leichtes Gepäck, gutes Schuhwerk und
 wetterfeste Kleidung.
-- Ggf. Gummistiefel für Wattwanderung (können auch vor Ort geliehen werden)
 - Es gilt Selbstversorgung während der Exkursion
 - Die Fahrt erfolgt mit drei thws-Bussen
 - Fahrtkosten, Übernachtungskosten und Museumseintritte
@@ -696,26 +695,23 @@ werden übernommen
 ---
 ## Ablauf & Programm
 ### 12.10.2026
-- Abfahrt ca. 7:00 Uhr in Würzburg
-- Gegen Mittag Ankunft im Hotel
-- Ab ca. 13:00 Uhr Besuch des
+- Abfahrt ca. 7:30 Uhr am Röntgenring in Würzburg
+- Fahrt Dauer ca. 7 Stunden
+- Ab ca. 14:00 Uhr Besuch des U-Bootes Wilhelm Bauer
 **U-Bootes Wilhelm Bauer**
 https://uboot-wilhelm-bauer.de/
 https://maps.app.goo.gl/rbNgqmpyVJQjgrxQA
+- Ab ca. 17 Uhr Bezug der Unterkünfte
+- Ab ca. 18:30 Uhr gemeinsames Abendessen
+
+
+
 ![bg right:40%](img/Wilhelm-Bauer.jpg)
 
----
-- Ab ca. 15:00 Uhr Besuch des
-**Deutschen Schifffahrtsmuseums**
-https://www.dsm.museum/
-https://maps.app.goo.gl/4C6eiC8w8eoTa8MMA
-- Zurück zum Hotel
-- gemeinsames Abendessen und Diskussionen
-![bg right:40%](img/Schifffahrtmuseum.jpg)
 
 ---
 ### 13.10.2026
-- Ab 10:00 Uhr Besuch des Alfred-Wegener-Instituts
+- Ab 10:00(!) Uhr Besuch des Alfred-Wegener-Instituts
 - Organisation durch Frank Wenzhöfer
 - Führung durch das Institut
 - Gesprächsrunde mit Dr. Frank Wenzhöfer
@@ -734,29 +730,36 @@ Essen am Fischereihafen
 ![bg](img/letzte-kneipe-vor-new-york.jpg)
 
 ---
-
 ### 14.10.2026
 
-- Ab 10:00 Uhr Besuch des 
-**„Zentrum für Umweltforschung und Umwelttechnologie“**
-Leobener Str. 6, 28359 Bremen-Horn-Lehen
-https://www.uni-bremen.de/uft
-- Danach Wattwanderung:
-https://www.nationalpark-wattenmeer.de/
-https://maps.app.goo.gl/5p9jTq9Bv5Bv5Bv5A
-Treffpunkt nach Absprache
-(abhängig von Wetter und Gezeiten)
-![bg right:40%](img/wattwanderung.jpg)
+- Um 09:30 Uhr Besuch des 
+**Deutschen Schifffahrtsmuseums**
+https://www.dsm.museum/
+https://maps.app.goo.gl/3kvXvaMiZS7gEq4x8
+
+![bg right:40%](img/Schifffahrtmuseum.jpg)
 
 ---
-### 15.10.2026
-- Ab 10:00 Uhr Besuch des
+
+- Um 12:45(!) Uhr Besuch des 
+
 **Klimahaus Bremerhaven**
 https://www.klimahaus-bremerhaven.de/
 https://maps.app.goo.gl/dGWS9cHXUUye56QQ7
-- Abreise ca. 13:00 Uhr
-- Ankunft in Würzburg gegen Abend
+
 ![bg right:40%](img/klimahaus.jpg)
+
+---
+### 15.10.2026
+- Um 10:30(!) Uhr Besuch des **MARUM in Bremen**
+https://www.marum.de/
+https://maps.app.goo.gl/xu1GNZ5SKCCAEogH6
+- Um 12:30 Uhr Mittagessen in der MENSA der Uni Bremen
+Abreise ca. 14:00 Uhr
+
+![bg right:40%](img/MARUM.jpg)
+---
+
 
 ---
 <!-- _class: structural-->
