@@ -146,7 +146,7 @@ Das Projekt entsteht in einer Kooperation aus:
 **Technische Hochschule Würzburg-Schweinfurt**
 - Fakultät FKV Kunststofftechnik und Vermessung,
 Studiengang Geovisualisierung
-- Fakultät FIW Informatik und Wirtschaftsinformatik
+- Fakultät BIN und BDGD Informatik und Bachelor Digitale Gesellschaft
 
 **MAVEL-Lab der THWS**
 - Fakultät Wirtschaftsingenieurwesen
@@ -168,7 +168,7 @@ Einbeziehung von Studierenden unterschiedlicher Fakultäten.
 des siebten Semesters
 - Schwerpunkte: 3D Visualisierung, Animation, VR
 
-#### FIW
+#### BIN und BDGD
 - Wahlpflichtmodul
 - Studiengänge: Informatik, Wirtschaftsinformatik,
 Informationssicherheit, Digitale Gesellschaft
@@ -676,7 +676,7 @@ und Hafenatmosphäre
 - Prof. Dr. Uwe Sponholz	Mitarbeiter
 - Dominik Fritsch	Mitarbeiter
 - Chris Haselhoff		Mitarbeiter
-- 15 Studierende aus FKV und FIW
+- 15 Studierende aus FKV, BIN /und BDGD
 ![bg](img/der-ozean-und-wir.jpg)
 
 ---
@@ -987,7 +987,7 @@ Kompetenzen:
 ---
 
 ### Team 1 - Leitung und Orga
- max. 2 Personen aus FKV & FIW
+ max. 2 Personen aus FKV & BIN/BDGD
 
  Dieses Team ist für die übergreifende Koordination und Kommunikation verantwortlich.
 
@@ -1010,7 +1010,7 @@ Aufgaben:
 
 ---
 ### Team 2 - Physischer Bau 
-max. 2 Personen aus FKV & FIW
+max. 2 Personen aus FKV & BIN/BDGD
 
 Dieses Team ist für die haptische Ebene in der CAVE zuständig. Sie bauen das reale Mock-up, in dem die User später sitzen.
 
@@ -1028,7 +1028,7 @@ Aufgaben:
 ---
 
 ### Team 3 - Hardware-Interaktion & Elektronik
-max. 2 Personen aus FKV & FIW
+max. 2 Personen aus FKV & BIN/BDGD
 Dieses Team schlägt die Brücke zwischen der physischen Kiste und der virtuellen Engine (z.B. Unreal Engine, Arduino).
 
 Aufgaben:
@@ -1046,7 +1046,7 @@ Aufgaben:
 ---
 
 ### Team 4 - UI/UX & Sounddesign
-max. 2 Personen aus FKV & FIW
+max. 2 Personen aus FKV & BIN/BDGD
 
 Dieses Team bespielt das physische Display im Boot und sorgt für die akustische Immersion im gesamten CAVE-Raum.
 
@@ -1090,7 +1090,7 @@ Aufgaben:
 
 ### Team 6 - Level Design 
 
-Min. 2 Personen, max. 4 Personen aus FKV & FIW
+Min. 2 Personen, max. 4 Personen aus FKV & BIN/BDGD
 
 Das Team erstellt die visuellen Highlights unter Wasser und erstellt die visuell ansprechenden Szenen.
 
@@ -1127,7 +1127,7 @@ Aufbau des tristen, schlammigen Meeresbodens (Displacement Meshes) mit dem Über
 ---
 
 ### Team 7 - VFX
-(Min. 2 Personen, max. 4 Personen aus FKV & FIW)
+(Min. 2 Personen, max. 4 Personen aus FKV & BIN/BDGD)
 Dieses Team macht die Welt durch Shader, Effekte und Lebewesen lebendig und visuell packend.
 
 Skybox & Beleuchtung:
