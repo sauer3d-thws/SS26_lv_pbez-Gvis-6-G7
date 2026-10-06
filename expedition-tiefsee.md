@@ -220,7 +220,8 @@ Würzburg
   - Chris Haselhoff (Hardware Engineering)
 
 **Competencies**
-Human Centred Design, XR VR, MR, Unreal, wave field synthesis, coding
+Human Centred Design, XR VR, MR, Unreal,
+wave field synthesis, coding
 ![bg right:40%](img/uwe.jpg)
 
 ---
@@ -229,7 +230,8 @@ Human Centred Design, XR VR, MR, Unreal, wave field synthesis, coding
 - Application of Extended Reality Technologies for the simulation of multisensory experiences
 
 **Technologies & Equipment:**
-- High-performance Computer Cluster, 3D Glasses, CAVE-System, Audio spatial Sound Wave
+- High-performance Computer Cluster, 3D Glasses, CAVE-System,
+Audio spatial Sound Wave
 - System, Media Truss System, Realtime Engines, Media Technology, Building Automation System
 ![bg right:40%](img/mavel-samples.jpg)
 
@@ -239,7 +241,8 @@ Human Centred Design, XR VR, MR, Unreal, wave field synthesis, coding
 - Forschungsinstitut mit Sitz in Bremerhaven
 - Spezialisiert auf Erforschung der Polarregionen
 - Gegründet am 15. Juli 1980.
-- Mitglied der Helmholtz-Gemeinschaft Deutscher Forschungszentren.
+- Mitglied der Helmholtz-Gemeinschaft
+Deutscher Forschungszentren.
 - Namensgeber: der Polarforscher &
 Geowissenschaftler Alfred Wegener.
 - Jahresbudget 2022 ca. 202,9 Millionen Euro
@@ -277,12 +280,14 @@ https://www.awi.de/forschung/biowissenschaften/tiefsee-oekologie-und-technologie
 
 ---
 ## Zielplattform: Die CAVE im MAVEL-Lab Schweinfurt
-Die CAVE (Cave Automatic Virtual Environment) des MAVEL-Labs an der THWS in Schweinfurt ist eine hochinnovative, immersive VR-Umgebung
+Die CAVE (Cave Automatic Virtual Environment
+ des MAVEL-Labs an der THWS in Schweinfurt ist eine hochinnovative, immersive VR-Umgebung
 
 - Raumfüllendes VR-System mit vierseitiger Projektion
 - Größte Cave Europas (10m x  5m x 5m)
 - immersive virtuelle Realität, mit leichten Shutterbrillen
-- Kombination von realen und virtuellen Objekten / physischen Mockups
+- Kombination von realen und virtuellen Objekten &
+physischen Mockups
 - Mixed Augmented Virtual Experience
 ![bg right:40%](img/mavel-lab-thws-cave-stefan-sauer.jpg)
 
@@ -313,7 +318,8 @@ Die CAVE (Cave Automatic Virtual Environment) des MAVEL-Labs an der THWS in Schw
 Gesellschaftliche Relevanz der Ozeane verdeutlichen: 
 - Schutz der Ozeane
 - Verständnis für die Ozeane (ca. 25% sind kartiert, <1% sind visuell bekannt)
-- Zu wenig Wissen für Verständnis von Veränderungen und deren Folgen
+- Zu wenig Wissen für Verständnis von Veränderungen
+und deren Folgen
 - Viele unbekannte Lebensräume, Organismen und Prozesse
 - aber vielleicht auch Antworten auf dringende Fragen
 
@@ -514,11 +520,17 @@ Der Kadaver wird zu einer regelrechten Oase des Lebens, die jahrzehntelang ein h
 ---
 
 **Die drei Stadien der Zersetzung:**
-  1. **Aasfresser-Stadium (Mobile-scavenger stage):** Haie, Schleimaale und Krebstiere fressen über Monate bis Jahre
+  1. **Aasfresser-Stadium (Mobile-scavenger stage):** Haie, Schleimaale
+  und Krebstiere fressen über Monate bis Jahre
   hinweg das weiche Gewebe in rasendem Tempo ab.
-  2. **Anreicherungs-Stadium (Enrichment-opportunist stage):** Würmer und kleine Krebstiere besiedeln die Knochen und das umliegende, extrem nährstoffreiche Sediment, das von den organischen Resten durchtränkt ist.
+  2. **Anreicherungs-Stadium (Enrichment-opportunist stage):**
+  Würmer und kleine Krebstiere besiedeln die Knochen und das umliegende, extrem nährstoffreiche Sediment, das von den
+  organischen Resten durchtränkt ist.
   3. **Sulfophiles Stadium (Sulfophilic stage):** Kann Jahrzehnte andauern. Bakterien zersetzen die Fette im Inneren der
-  gewaltigen Walknochen. Dabei entsteht Schwefelwasserstoff (ähnlich wie an Schwarzen Rauchern). Dieser dient als Energiequelle für hochspezialisierte chemosynthetische Lebewesen, etwa den Knochenfresser-Wurm (Osedax).
+  gewaltigen Walknochen. Dabei entsteht Schwefelwasserstoff
+  (ähnlich wie an Schwarzen Rauchern).
+  Dieser dient als Energiequelle für hochspezialisierte
+  chemosynthetische Lebewesen, etwa den Knochenfresser-Wurm (Osedax).
 ![bg right:40%](img/krebstiere.jpg)
 
 ---
@@ -604,7 +616,8 @@ und wenige Fische.
 
 ---
 **Hotspot-Charakter:**
-Schwarze Raucher sind marine "Oasen" in der riesigen Tiefsee-Wüste. Sie zeigen, dass Leben unter extremen Bedingungen (hoher Druck, Dunkelheit, giftige Chemikalien) möglich ist und sich unabhängig von Sonnenenergie entwickeln kann. Diese Entdeckung hat auch Auswirkungen auf die Suche nach extraterrestrischem Leben (z.B. auf Jupitermonden). 
+Schwarze Raucher sind marine "Oasen" in der riesigen
+Tiefsee-Wüste. Sie zeigen, dass Leben unter extremen Bedingungen (hoher Druck, Dunkelheit, giftige Chemikalien) möglich ist und sich unabhängig von Sonnenenergie entwickeln kann. Diese Entdeckung hat auch Auswirkungen auf die Suche nach extraterrestrischem Leben (z.B. auf Jupitermonden). 
 ![bg right:40%](img/extraterrestrisch.jpg)
 
 ---
@@ -617,7 +630,8 @@ Schwarze Raucher sind marine "Oasen" in der riesigen Tiefsee-Wüste. Sie zeigen,
 ### Gamification
 - das virtuelle Forschungsprojekt basiert auf
 einer Spielemechanik
-- es gibt lineare Abläufe (Abtauchen) & freie Entscheidungsmöglichkeiten (Steuern am Meeresboden)
+- es gibt lineare Abläufe (Abtauchen) & freie
+Entscheidungsmöglichkeiten (Steuern am Meeresboden)
 - es ist eine Mission zu erfüllen (z.B. Daten sammeln,
 Aufnahmen des Abbaus von Manganknollen machen,
 Proben entnehmen)
@@ -769,7 +783,8 @@ Abreise ca. 14:00 Uhr
 - Verständnis für die Einzelaufgaben entwickeln
 - Kennenlernen der Betreuer und Mitarbeiter des MAVEL-Lab
 - Sichtung der bereits erstellten Assets
-- Gezielte Nachfragen an Dr. Frank Wenzhöfer, Notizen anfertigen und zusammentragen
+- Gezielte Nachfragen an Dr. Frank Wenzhöfer,
+Notizen anfertigen und zusammentragen
 
 ![bg left:40%](img/letzte-kneipe-vor-new-york-innen.jpg)
 
@@ -1015,7 +1030,9 @@ max. 2 Personen aus FKV & BIN/BDGD
 Dieses Team ist für die haptische Ebene in der CAVE zuständig. Sie bauen das reale Mock-up, in dem die User später sitzen.
 
 Aufgaben:
-- Mock-up Konstruktion: Entwurf und Bau des eiförmigen, engen "Raums im Raum" aus dunklen Holzlatten ("Eigenbau"-Ästhetik).
+- Mock-up Konstruktion: Entwurf und Bau des eiförmigen,
+engen "Raums im Raum" aus dunklen Holzlatten
+("Eigenbau"-Ästhetik).
 - Ergonomie & Interieur: Fertigung und Montage der zwei harten, unbequemen Sitze im Inneren des Bootes.
 ![bg right:40%](img/team-bau.jpg)
 
@@ -1034,7 +1051,8 @@ Dieses Team schlägt die Brücke zwischen der physischen Kiste und der virtuelle
 Aufgaben:
 - Feedback-Ausgabe Sauerstoff-, Energie-Überwachung,
  Meldung Kommunikation mit Boot
-- Regler-Logik: Integration des Schubreglers zum analogen physischen Dimmen der Außenlichter in Unreal.
+- Regler-Logik: Integration des Schubreglers zum
+analogen physischen Dimmen der Außenlichter in Unreal.
 ![bg right:40%](img/team-elektronik.jpg)
 
 ---
@@ -1048,12 +1066,14 @@ Aufgaben:
 ### Team 4 - UI/UX & Sounddesign
 max. 2 Personen aus FKV & BIN/BDGD
 
-Dieses Team bespielt das physische Display im Boot und sorgt für die akustische Immersion im gesamten CAVE-Raum.
+Dieses Team bespielt das physische Display im Boot und
+sorgt für die akustische Immersion im gesamten CAVE-Raum.
 
 Aufgaben:
 
 - Missions-Display (UI):
-Design der Sci-Fi-Unterwasserkarte (2D-Grafiken für die Zielregionen: Manganknollen, Whalefall, Eisfischnester,
+Design der Sci-Fi-Unterwasserkarte
+(2D-Grafiken für die Zielregionen: Manganknollen, Whalefall, Eisfischnester,
 Schwarze Raucher).
 - Erstellung des "No Signal / Rauschen"-Zustands
 zu Beginn der Fahrt.
@@ -1131,7 +1151,9 @@ Aufbau des tristen, schlammigen Meeresbodens (Displacement Meshes) mit dem Über
 Dieses Team macht die Welt durch Shader, Effekte und Lebewesen lebendig und visuell packend.
 
 Skybox & Beleuchtung:
-- Erstellung der 360°-Oberflächen-Skybox (Sonne, unendlicher Horizont) inklusive Blendeffekt (Lens Flare / Bloom) beim Start.
+- Erstellung der 360°-Oberflächen-Skybox
+(Sonne, unendlicher Horizont) inklusive Blendeffekt
+(Lens Flare / Bloom) beim Start.
 ![bg right:40%](img/team-vfx.jpg)
 
 ---
