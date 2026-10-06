@@ -22,7 +22,7 @@ math: mathjax
 # Auf der Jagd nach den schwarzen Rauchern.
 
 
-Lesung von Uwe Sponholz, Flowiran Schuster, Stefan Sauer, Dominik Fritsch und Chris Haselhoff
+Lesung von Uwe Sponholz, Florian Schuster, Stefan Sauer, Dominik Fritsch und Chris Haselhoff
 
 
 
