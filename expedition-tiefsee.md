@@ -802,7 +802,7 @@ Notizen anfertigen und zusammentragen
 | Nr. | Datum | Uhrzeit | Status / Anmerkung |
 | :--- | :--- | :--- | :--- |
 | 01 | **07.10.2026** | 13:30-16:00 | Kickoff in Schweinfurt |
-| 02 | **08.10.2026** | 12:30-16:00 | Vorbereitung Exkursion |
+| 02 | **08.10.2026** | 13:30-16:00 | Vorbereitung Exkursion |
 | 03 | **12. - 15.10.2026** | ganztägig | Exkursion Bremerhaven |
 | - | **21.10.2026** | ganztägig | *Campusday - vorlesungsfrei* |
 | 04 | **28.10.2026** | 12:30-16:00 | Einführung in Unreal von Dominik Fritsch |
